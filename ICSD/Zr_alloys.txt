@@ -1,0 +1,93 @@
+CollectionCode	StructuredFormula	StructureType	Reference	StandardisedCellParameter	FormulaUnitsPerCell	Temperature	Pressure	SumFormula	MeasuredDensity	
+29262	Zr (Ge O4)	Scheelite-CaWO4	Materials Research Bulletin (1984) 19, (*) p793-p799	4.8660 4.8660 10.5500 90.000 90.000 90.000	4	293.00	0.101325	Ge1 O4 Zr1		
+62994	Zr0.935 Y0.065 O1.968	Zirconia-ZrO2(HT)	Acta Crystallographica, Section B: Structural Science (1988) 44, (*) p116-p120	3.6055 3.6055 5.1797 90.000 90.000 90.000	2	293.00	0.101325	O1.968 Y0.065 Zr0.935		
+655671	(Zr0.935 Y0.065) O1.968	Zirconia-ZrO2(HT)	Acta Crystallographica, Section B: Structural Science (1988) 44, (2) p116-p120	3.6055 3.6055 5.1797 90.000 90.000 90.000	2	293.00	0.101325	O1.968 Y0.065 Zr0.935		
+75309	(Zr0.9 Y0.1) O1.95	Zirconia-ZrO2(HT)	Acta Crystallographica, Section B: Structural Science (1994) 50, (*) p663-p672	3.6183 3.6183 5.1634 90.000 90.000 90.000	2	293.00	0.101325	O1.95 Y0.1 Zr0.9		
+75310	Zr0.88 Y0.12 O1.94	Zirconia-ZrO2(HT)	Acta Crystallographica, Section B: Structural Science (1994) 50, (*) p663-p672	3.6228 3.6228 5.1575 90.000 90.000 90.000	2	293.00	0.101325	O1.94 Y0.12 Zr0.88		
+75311	Zr0.86 Y0.14 O1.93	Zirconia-ZrO2(HT)	Acta Crystallographica, Section B: Structural Science (1994) 50, (*) p663-p672	3.6309 3.6309 5.1532 90.000 90.000 90.000	2	293.00	0.101325	O1.93 Y0.14 Zr0.86		
+75312	Zr0.84 Y0.16 O1.92	Zirconia-ZrO2(HT)	Acta Crystallographica, Section B: Structural Science (1994) 50, (*) p663-p672	3.6351 3.6351 5.1409 90.000 90.000 90.000	2	293.00	0.101325	O1.92 Y0.16 Zr0.84		
+75313	Zr0.82 Y0.18 O1.91	Zirconia-ZrO2(HT)	Acta Crystallographica, Section B: Structural Science (1994) 50, (*) p663-p672	3.6369 3.6369 5.1434 90.000 90.000 90.000	2	293.00	0.101325	O1.91 Y0.18 Zr0.82		
+171370	Zr0.994 Hf0.006 O1.968	Zirconia-ZrO2(HT)	Acta Crystallographica, Section B: Structural Science (2006) 62, (1) p161-p164	3.5865 3.5865 5.1666 90.000 90.000 90.000	2	298.00	0.101325	Hf0.006 O1.968 Zr0.994		
+86603	(Zr0.96 Y0.04) O1.984	Zirconia-ZrO2(HT)	Australian Journal of Physics (1998) 51, (*) p539-p545	3.6041 3.6041 5.1804 90.000 90.000 90.000	2	293.00	0.101325	O1.984 Y0.04 Zr0.96		
+183857	(Ce0.1 Zr0.9) O2	Zirconia-ZrO2(HT)	Fuel Cells (Weinhem, Germany) (2011) 11, (5) p642-p653	3.6333 3.6333 5.2378 90.000 90.000 90.000	2	293.00	0.101325	Ce0.1 O2 Zr0.9		
+183858	(Ce0.2 Zr0.8) O2	Zirconia-ZrO2(HT)	Fuel Cells (Weinhem, Germany) (2011) 11, (5) p642-p653	3.6418 3.6418 5.2416 90.000 90.000 90.000	2	293.00	0.101325	Ce0.2 O2 Zr0.8		
+183860	(Ce0.3 Zr0.7) O2	Zirconia-ZrO2(HT)	Fuel Cells (Weinhem, Germany) (2011) 11, (5) p642-p653	3.6444 3.6444 5.2463 90.000 90.000 90.000	2	293.00	0.101325	Ce0.3 O2 Zr0.7		
+183861	(Ce0.3 Zr0.7) O2	Zirconia-ZrO2(HT)	Fuel Cells (Weinhem, Germany) (2011) 11, (5) p642-p653	3.6942 3.6942 5.2914 90.000 90.000 90.000	2	293.00	0.101325	Ce0.3 O2 Zr0.7		
+183863	(Ce0.4 Zr0.6) O2	Zirconia-ZrO2(HT)	Fuel Cells (Weinhem, Germany) (2011) 11, (5) p642-p653	3.6548 3.6548 5.2637 90.000 90.000 90.000	2	293.00	0.101325	Ce0.4 O2 Zr0.6		
+183864	(Ce0.4 Zr0.6) O2	Zirconia-ZrO2(HT)	Fuel Cells (Weinhem, Germany) (2011) 11, (5) p642-p653	3.6942 3.6942 5.2987 90.000 90.000 90.000	2	293.00	0.101325	Ce0.4 O2 Zr0.6		
+183866	(Ce0.5 Zr0.5) O2	Zirconia-ZrO2(HT)	Fuel Cells (Weinhem, Germany) (2011) 11, (5) p642-p653	3.7255 3.7255 5.3151 90.000 90.000 90.000	2	293.00	0.101325	Ce0.5 O2 Zr0.5		
+183867	(Ce0.6 Zr0.4) O2	Zirconia-ZrO2(HT)	Fuel Cells (Weinhem, Germany) (2011) 11, (5) p642-p653	3.7568 3.7568 5.3211 90.000 90.000 90.000	2	293.00	0.101325	Ce0.6 O2 Zr0.4		
+248879	(Ce0.5 Zr0.5) O2	Zirconia-ZrO2(HT)	Inorganic Chemistry (2012) 51, (24) p13237-p13244	3.6808 3.6808 5.2738 90.000 90.000 90.000	2	293.00	0.101325	Ce0.5 O2 Zr0.5		
+75063	(La0.1 Zr0.9) O1.95	Zirconia-ZrO2(HT)	Journal of Alloys and Compounds (1994) 207, (*) p174-p177	3.6447 3.6447 5.2034 90.000 90.000 90.000	2	293.00	0.101325	La0.1 O1.95 Zr0.9		
+75065	(Nd0.1 Zr0.9) O1.95	Zirconia-ZrO2(HT)	Journal of Alloys and Compounds (1994) 207, (*) p174-p177	3.6346 3.6346 5.2020 90.000 90.000 90.000	2	293.00	0.101325	Nd0.1 O1.95 Zr0.9		
+75067	(Nd0.1 Zr0.9) O1.95	Zirconia-ZrO2(HT)	Journal of Alloys and Compounds (1994) 207, (*) p174-p177	3.6293 3.6293 5.1895 90.000 90.000 90.000	2	293.00	0.101325	Nd0.1 O1.95 Zr0.9		
+68590	(Zr0.82 Ce0.18) O2	Zirconia-ZrO2(HT)	Journal of Applied Crystallography (1990) 23, (*) p246-p252	3.6420 3.6420 5.2440 90.000 90.000 90.000	2	293.00	0.101325	Ce0.18 O2 Zr0.82		
+79197	Zr0.963 Y0.037 O1.982	Zirconia-ZrO2(HT)	Journal of Applied Crystallography (1995) 28, (*) p206-p208	3.6008 3.6008 5.1793 90.000 90.000 90.000	2	293.00	0.101325	O1.982 Y0.037 Zr0.963		
+70049	Zr0.935 Y0.065 O1.968	Zirconia-ZrO2(HT)	Journal of Applied Crystallography (1995) 28, (*) p206-p208	3.6055 3.6055 5.1797 90.000 90.000 90.000	2	293.00	0.101325	O1.968 Y0.065 Zr0.935		
+152471	(Zr0.85 Ce0.15) O2	Zirconia-ZrO2(HT)	Journal of Applied Crystallography (2005) 38, (*) p867-p873	3.6311 3.6311 5.2166 90.000 90.000 90.000	2	293.00	0.101325	Ce0.15 O2 Zr0.85		
+152472	(Zr0.6 Ce0.4) O2	Zirconia-ZrO2(HT)	Journal of Applied Crystallography (2005) 38, (*) p867-p873	3.7003 3.7003 5.2634 90.000 90.000 90.000	2	293.00	0.101325	Ce0.4 O2 Zr0.6		
+152473	(Zr0.5 Ce0.5) O2	Zirconia-ZrO2(HT)	Journal of Applied Crystallography (2005) 38, (*) p867-p873	3.7226 3.7226 5.2894 90.000 90.000 90.000	2	293.00	0.101325	Ce0.5 O2 Zr0.5		
+152474	(Zr0.4 Ce0.6) O2	Zirconia-ZrO2(HT)	Journal of Applied Crystallography (2005) 38, (*) p867-p873	3.7470 3.7470 5.3129 90.000 90.000 90.000	2	293.00	0.101325	Ce0.6 O2 Zr0.4		
+152475	(Zr0.35 Ce0.65) O2	Zirconia-ZrO2(HT)	Journal of Applied Crystallography (2005) 38, (*) p867-p873	3.7564 3.7564 5.3220 90.000 90.000 90.000	2	293.00	0.101325	Ce0.65 O2 Zr0.35		
+152476	(Zr0.30 Ce0.70) O2	Zirconia-ZrO2(HT)	Journal of Applied Crystallography (2005) 38, (*) p867-p873	3.7689 3.7689 5.3301 90.000 90.000 90.000	2	293.00	0.101325	Ce0.7 O2 Zr0.3		
+81032	(Zr0.9 Nd0.1) O1.95	Zirconia-ZrO2(HT)	Journal of Catalysis (1995) 157, (*) p636-p644	3.6318 3.6318 5.2002 90.000 90.000 90.000	2	293.00	0.101325	Nd0.1 O1.95 Zr0.9		
+81034	(Zr0.9 Nd0.1) O1.95	Zirconia-ZrO2(HT)	Journal of Catalysis (1995) 157, (*) p636-p644	3.6288 3.6288 5.1982 90.000 90.000 90.000	2	293.00	0.101325	Nd0.1 O1.95 Zr0.9		
+81036	(Zr0.9 La0.1) O1.95	Zirconia-ZrO2(HT)	Journal of Catalysis (1995) 157, (*) p636-p644	3.6377 3.6377 5.2059 90.000 90.000 90.000	2	293.00	0.101325	La0.1 O1.95 Zr0.9		
+186467	(Zr0.95 Ce0.05) O2	Zirconia-ZrO2(HT)	Journal of Luminescence (2011) 131, (10) p2128-p2132	3.6141 3.6141 5.2087 90.000 90.000 90.000	2	293.00	0.101325	Ce0.05 O2 Zr0.95		
+186468	(Zr0.95 Ce0.05) O2	Zirconia-ZrO2(HT)	Journal of Luminescence (2011) 131, (10) p2128-p2132	3.6170 3.6170 5.2130 90.000 90.000 90.000	2	293.00	0.101325	Ce0.05 O2 Zr0.95		
+90884	((Zr O2)0.972 (Y2 O3)0.028)0.973	Zirconia-ZrO2(HT)	Journal of Materials Science (2000) 35, (*) p5563-p5567	3.6067 3.6067 5.1802 90.000 90.000 90.000	2	293.00	0.101325	O1.973244 Y0.054488 Zr0.945756		
+90885	((Zr O2)0.96 (Y2 O3)0.04)0.962	Zirconia-ZrO2(HT)	Journal of Materials Science (2000) 35, (*) p5563-p5567	3.6100 3.6100 5.1647 90.000 90.000 90.000	2	293.00	0.101325	O1.96248 Y0.07696 Zr0.92352		
+90886	((Zr O2)0.95 (Y2 O3)0.05)0.952	Zirconia-ZrO2(HT)	Journal of Materials Science (2000) 35, (*) p5563-p5567	3.6162 3.6162 5.1576 90.000 90.000 90.000	2	293.00	0.101325	O1.9516 Y0.0952 Zr0.9044		
+90888	((Zr O2)0.93 (Y2 O3)0.07)0.935	Zirconia-ZrO2(HT)	Journal of Materials Science (2000) 35, (*) p5563-p5567	3.6251 3.6251 5.1401 90.000 90.000 90.000	2	293.00	0.101325	O1.93545 Y0.1309 Zr0.86955		
+90889	((Zr O2)0.92 (Y2 O3)0.08)0.926	Zirconia-ZrO2(HT)	Journal of Materials Science (2000) 35, (*) p5563-p5567	3.6294 3.6294 5.1433 90.000 90.000 90.000	2	293.00	0.101325	O1.92608 Y0.14816 Zr0.85192		
+90890	((Zr O2)0.91 (Y2 O3)0.09)0.917	Zirconia-ZrO2(HT)	Journal of Materials Science (2000) 35, (*) p5563-p5567	3.6286 3.6286 5.1371 90.000 90.000 90.000	2	293.00	0.101325	O1.91653 Y0.16506 Zr0.83447		
+90891	((Zr O2)0.90 (Y2 O3)0.10)0.909	Zirconia-ZrO2(HT)	Journal of Materials Science (2000) 35, (*) p5563-p5567	3.6275 3.6275 5.1371 90.000 90.000 90.000	2	293.00	0.101325	O1.9089 Y0.1818 Zr0.8181		
+90892	((Zr O2)0.89 (Y2 O3)0.11)0.901	Zirconia-ZrO2(HT)	Journal of Materials Science (2000) 35, (*) p5563-p5567	3.6297 3.6297 5.1394 90.000 90.000 90.000	2	293.00	0.101325	O1.90111 Y0.19822 Zr0.80189		
+90893	((Zr O2)0.88 (Y2 O3)0.12)0.893	Zirconia-ZrO2(HT)	Journal of Materials Science (2000) 35, (*) p5563-p5567	3.6325 3.6325 5.1426 90.000 90.000 90.000	2	293.00	0.101325	O1.89316 Y0.21432 Zr0.78584		
+162786	(Ce0.1 Zr0.9) O2	Zirconia-ZrO2(HT)	Journal of Physical Chemistry C (2009) 113, (*) p914-p924	3.6239 3.6239 5.2001 90.000 90.000 90.000	2	293.00	0.101325	Ce0.1 O2 Zr0.9		
+162787	(Ce0.25 Zr0.75) O2	Zirconia-ZrO2(HT)	Journal of Physical Chemistry C (2009) 113, (*) p914-p924	3.6679 3.6679 5.2321 90.000 90.000 90.000	2	293.00	0.101325	Ce0.25 O2 Zr0.75		
+162788	(Ce0.5 Zr0.5) O2	Zirconia-ZrO2(HT)	Journal of Physical Chemistry C (2009) 113, (*) p914-p924	3.7312 3.7312 5.2970 90.000 90.000 90.000	2	293.00	0.101325	Ce0.5 O2 Zr0.5		
+162789	(Ce0.75 Zr0.25) O2	Zirconia-ZrO2(HT)	Journal of Physical Chemistry C (2009) 113, (*) p914-p924	3.7802 3.7802 5.3480 90.000 90.000 90.000	2	293.00	0.101325	Ce0.75 O2 Zr0.25		
+167229	(Zr0.95 Pr0.05) O2	Zirconia-ZrO2(HT)	Journal of Physics D: Applied Physics (2009) 42, (*) p075418-1-p075418-7	3.6001 3.6001 5.1908 90.000 90.000 90.000	2	293.00	0.101325	O2 Pr0.05 Zr0.95		
+9994	Zr.931 Sc.069 O1.966	Zirconia-ZrO2(HT)	Journal of Solid State Chemistry (1973) 7, (*) p448-p453	3.6400 3.6400 5.2700 90.000 90.000 90.000	2	1473.00	0.101325	O1.966 Sc0.069 Zr0.931		
+9995	(Zr0.9 Sc0.1) O1.95	Zirconia-ZrO2(HT)	Journal of Solid State Chemistry (1973) 7, (*) p448-p453	3.6400 3.6400 5.2700 90.000 90.000 90.000	2	1473.00	0.101325	O1.95 Sc0.1 Zr0.9		
+9996	Zr.900 Sc.100 O1.950	Zirconia-ZrO2(HT)	Journal of Solid State Chemistry (1973) 7, (*) p448-p453	3.6400 3.6400 5.2700 90.000 90.000 90.000	2	298.00	0.101325	O1.95 Sc0.1 Zr0.9		
+51775	(V0.1 Zr0.9) O2	Zirconia-ZrO2(HT)	Journal of Solid State Chemistry (2002) 163, (*) p33-p36	3.5957 3.5957 5.1826 90.000 90.000 90.000	2	293.00	0.101325	O2 V0.1 Zr0.9		
+51776	(V0.13 Zr0.87) O2	Zirconia-ZrO2(HT)	Journal of Solid State Chemistry (2002) 163, (*) p33-p36	3.5897 3.5897 5.1822 90.000 90.000 90.000	2	293.00	0.101325	O2 V0.13 Zr0.87		
+51777	(V0.09 Zr0.91) O2	Zirconia-ZrO2(HT)	Journal of Solid State Chemistry (2002) 163, (*) p33-p36	3.5932 3.5932 5.1820 90.000 90.000 90.000	2	293.00	0.101325	O2 V0.09 Zr0.91		
+75478	(Zr0.88 Ce0.12) O2	Zirconia-ZrO2(HT)	Journal of the American Ceramic Society (1994) 77, (6) p1569-p1575	3.6270 3.6270 5.2336 90.000 90.000 90.000	2	293.00	0.101325	Ce0.12 O2 Zr0.88		
+86700	(Zr O2)0.9 (Sc O1.5)0.1	Zirconia-ZrO2(HT)	Journal of the American Ceramic Society (1998) 81, (*) p2885-p2893	3.5956 3.5956 5.1394 90.000 90.000 90.000	2	293.00	0.101325	O1.95 Sc0.1 Zr0.9		
+86701	(Zr O2)0.88 (Sc O1.5)0.12	Zirconia-ZrO2(HT)	Journal of the American Ceramic Society (1998) 81, (*) p2885-p2893	3.5956 3.5956 5.1331 90.000 90.000 90.000	2	293.00	0.101325	O1.94 Sc0.12 Zr0.88		
+86702	(Zr O2)0.86 (Sc O1.5)0.14	Zirconia-ZrO2(HT)	Journal of the American Ceramic Society (1998) 81, (*) p2885-p2893	3.5953 3.5953 5.1273 90.000 90.000 90.000	2	293.00	0.101325	O1.93 Sc0.14 Zr0.86		
+86703	(Zr O2)0.84 (Sc O1.5)0.16	Zirconia-ZrO2(HT)	Journal of the American Ceramic Society (1998) 81, (*) p2885-p2893	3.5957 3.5957 5.1110 90.000 90.000 90.000	2	293.00	0.101325	O1.92 Sc0.16 Zr0.84		
+86695	(Zr O2)0.96 (Sc O1.5)0.04	Zirconia-ZrO2(HT)	Journal of the American Ceramic Society (1998) 81, (11) p2885-p2893	3.5920 3.5920 5.1730 90.000 90.000 90.000	2	293.00	0.101325	O1.98 Sc0.04 Zr0.96		
+86697	(Zr O2)0.94 (Sc O1.5)0.06	Zirconia-ZrO2(HT)	Journal of the American Ceramic Society (1998) 81, (11) p2885-p2893	3.5965 3.5965 5.1608 90.000 90.000 90.000	2	293.00	0.101325	O1.97 Sc0.06 Zr0.94		
+86699	(Zr O2)0.92 (Sc O1.5)0.08	Zirconia-ZrO2(HT)	Journal of the American Ceramic Society (1998) 81, (11) p2885-p2893	3.5965 3.5965 5.1608 90.000 90.000 90.000	2	293.00	0.101325	O1.96 Sc0.08 Zr0.92		
+157405	(Ce0.66 Zr0.34) O2	Zirconia-ZrO2(HT)	Journal of the European Ceramic Society (2007) 27, (*) p3677-p3682	3.6740 3.6740 5.2715 90.000 90.000 90.000	2	293.00	0.101325	Ce0.66 O2 Zr0.34		
+157406	(Ce0.17 Zr0.83) O2	Zirconia-ZrO2(HT)	Journal of the European Ceramic Society (2007) 27, (*) p3677-p3682	3.6371 3.6371 5.2332 90.000 90.000 90.000	2	293.00	0.101325	Ce0.17 O2 Zr0.83		
+157408	(Ce0.58 Zr0.42) O2	Zirconia-ZrO2(HT)	Journal of the European Ceramic Society (2007) 27, (*) p3677-p3682	3.6972 3.6972 5.2785 90.000 90.000 90.000	2	293.00	0.101325	Ce0.58 O2 Zr0.42		
+157409	(Ce0.18 Zr0.82) O2	Zirconia-ZrO2(HT)	Journal of the European Ceramic Society (2007) 27, (*) p3677-p3682	3.6439 3.6439 5.2401 90.000 90.000 90.000	2	293.00	0.101325	Ce0.18 O2 Zr0.82		
+157411	(Ce0.62 Zr0.38) O2	Zirconia-ZrO2(HT)	Journal of the European Ceramic Society (2007) 27, (*) p3677-p3682	3.6997 3.6997 5.2922 90.000 90.000 90.000	2	293.00	0.101325	Ce0.62 O2 Zr0.38		
+157412	(Ce0.18 Zr0.82) O2	Zirconia-ZrO2(HT)	Journal of the European Ceramic Society (2007) 27, (*) p3677-p3682	3.6510 3.6510 5.2502 90.000 90.000 90.000	2	293.00	0.101325	Ce0.18 O2 Zr0.82		
+157414	(Ce0.50 Zr0.50) O2	Zirconia-ZrO2(HT)	Journal of the European Ceramic Society (2007) 27, (*) p3677-p3682	3.7222 3.7222 5.3109 90.000 90.000 90.000	2	293.00	0.101325	Ce0.5 O2 Zr0.5		
+41577	(Zr0.9 Ce0.1) O2	Zirconia-ZrO2(HT)	Physical Review B: Condensed Matter and Materials Physics (1995) 51, (*) p8434-p8437	3.6296 3.6296 5.2130 90.000 90.000 90.000	2	293.00	0.101325	Ce0.1 O2 Zr0.9		
+41579	Zr.88 Ce.12 O2	Zirconia-ZrO2(HT)	Physical Review B: Condensed Matter and Materials Physics (1995) 51, (*) p8434-p8437	3.6297 3.6297 5.2217 90.000 90.000 90.000	2	293.00	0.101325	Ce0.12 O2 Zr0.88		
+41580	(Zr0.85 Ce0.15) O2	Zirconia-ZrO2(HT)	Physical Review B: Condensed Matter and Materials Physics (1995) 51, (*) p8434-p8437	3.6325 3.6325 5.2288 90.000 90.000 90.000	2	293.00	0.101325	Ce0.15 O2 Zr0.85		
+164607	(Zr0.84 Ce0.16) O2	Zirconia-ZrO2(HT)	Powder Diffraction (1987) 2, (*) p255-p256	3.6377 3.6377 5.2394 90.000 90.000 90.000	2	293.00	0.101325	Ce0.16 O2 Zr0.84		
+164608	(Zr0.5 Ce0.5) O2	Zirconia-ZrO2(HT)	Powder Diffraction (1987) 2, (*) p255-p256	3.7205 3.7205 5.3039 90.000 90.000 90.000	2	293.00	0.101325	Ce0.5 O2 Zr0.5		
+165039	(Zr0.5 Ce0.5) O2	Zirconia-ZrO2(HT)	Powder Diffraction (2008) 23, (*) pS70-pS74	3.7219 3.7219 5.2940 90.000 90.000 90.000	2	313.00	0.101325	Ce0.5 O2 Zr0.5		
+165040	(Zr0.5 Ce0.5) O2	Zirconia-ZrO2(HT)	Powder Diffraction (2008) 23, (*) pS70-pS74	3.7328 3.7328 5.3064 90.000 90.000 90.000	2	673.00	0.101325	Ce0.5 O2 Zr0.5		
+165041	(Zr0.5 Ce0.5) O2	Zirconia-ZrO2(HT)	Powder Diffraction (2008) 23, (*) pS70-pS74	3.7421 3.7421 5.3240 90.000 90.000 90.000	2	873.00	0.101325	Ce0.5 O2 Zr0.5		
+165042	(Zr0.5 Ce0.5) O2	Zirconia-ZrO2(HT)	Powder Diffraction (2008) 23, (*) pS70-pS74	3.7460 3.7460 5.3298 90.000 90.000 90.000	2	973.00	0.101325	Ce0.5 O2 Zr0.5		
+165043	(Zr0.5 Ce0.5) O2	Zirconia-ZrO2(HT)	Powder Diffraction (2008) 23, (*) pS70-pS74	3.7514 3.7514 5.3380 90.000 90.000 90.000	2	1073.00	0.101325	Ce0.5 O2 Zr0.5		
+165045	(Zr0.4 Ce0.6) O2	Zirconia-ZrO2(HT)	Powder Diffraction (2008) 23, (*) pS70-pS74	3.7510 3.7510 5.3047 90.000 90.000 90.000	2	313.00	0.101325	Ce0.6 O2 Zr0.4		
+165046	(Zr0.4 Ce0.6) O2	Zirconia-ZrO2(HT)	Powder Diffraction (2008) 23, (*) pS70-pS74	3.7651 3.7651 5.3247 90.000 90.000 90.000	2	673.00	0.101325	Ce0.6 O2 Zr0.4		
+165047	(Zr0.4 Ce0.6) O2	Zirconia-ZrO2(HT)	Powder Diffraction (2008) 23, (*) pS70-pS74	3.7734 3.7734 5.3364 90.000 90.000 90.000	2	873.00	0.101325	Ce0.6 O2 Zr0.4		
+165049	(Zr0.35 Ce0.65) O2	Zirconia-ZrO2(HT)	Powder Diffraction (2008) 23, (*) pS70-pS74	3.7583 3.7583 5.3151 90.000 90.000 90.000	2	313.00	0.101325	Ce0.65 O2 Zr0.35		
+165050	(Zr0.35 Ce0.65) O2	Zirconia-ZrO2(HT)	Powder Diffraction (2008) 23, (*) pS70-pS74	3.7790 3.7790 5.3450 90.000 90.000 90.000	2	823.00	0.101325	Ce0.65 O2 Zr0.35		
+165051	(Zr0.35 Ce0.65) O2	Zirconia-ZrO2(HT)	Powder Diffraction (2008) 23, (*) pS70-pS74	3.7840 3.7840 5.3520 90.000 90.000 90.000	2	923.00	0.101325	Ce0.65 O2 Zr0.35		
+165052	(Zr0.35 Ce0.65) O2	Zirconia-ZrO2(HT)	Powder Diffraction (2008) 23, (*) pS70-pS74	3.7874 3.7874 5.3562 90.000 90.000 90.000	2	1023.00	0.101325	Ce0.65 O2 Zr0.35		
+165035	(Zr0.945 Y0.055) O1.972	Zirconia-ZrO2(HT)	Powder Diffraction (2008) 23, (2) pS46-pS55	3.6073 3.6073 5.1762 90.000 90.000 90.000	2	293.00	0.101325	O1.972 Y0.055 Zr0.945		
+165037	(Zr0.94 Ca0.06) O1.94	Zirconia-ZrO2(HT)	Powder Diffraction (2008) 23, (2) pS46-pS55	3.6080 3.6080 5.1609 90.000 90.000 90.000	2	293.00	0.101325	Ca0.06 O1.94 Zr0.94		
+89427	(Zr0.88 Ce0.12) O2	Zirconia-ZrO2(HT)	Science in China, Series A: Mathematics, Physics, Astronomy (1999) 42, (1) p80-p86	3.6360 3.6360 5.2260 90.000 90.000 90.000	2	293.00	0.101325	Ce0.12 O2 Zr0.88		
+89428	(Zr0.94 Y0.06) O1.88	Zirconia-ZrO2(HT)	Science in China, Series A: Mathematics, Physics, Astronomy (1999) 42, (1) p80-p86	3.6020 3.6020 5.1790 90.000 90.000 90.000	2	293.00	0.101325	O1.88 Y0.06 Zr0.94		

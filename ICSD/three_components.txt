@@ -1,0 +1,240 @@
+CollectionCode	StructuredFormula	StructureType	Reference	StandardisedCellParameter	FormulaUnitsPerCell	Temperature	Pressure	SumFormula	MeasuredDensity	
+41530	Sn.918 Sb.109 O2	(Sn,Sb)O2	Journal of the Chemical Society, Dalton Transactions: Inorganic Chemistry  (1981) 1981, (*) p2447-p2451	4.7373 4.7373 3.1816 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.109 Sn0.918		
+82657	Ti B0.024 O2	(Sn,Sb)O2	Journal of Solid State Chemistry (1996) 127, (*) p240-p247	4.6092 4.6092 2.9673 90.000 90.000 90.000	2	293.00	0.101325	B0.024 O2 Ti1		
+258169	Sn0.99 Sb0.01 O2	(Sn,Sb)O2	Journal of Alloys and Compounds (2017) 692, (*) p515-p521	4.7383 4.7383 3.1874 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.01 Sn0.99		
+258170	Sn0.97 Sb0.03 O2	(Sn,Sb)O2	Journal of Alloys and Compounds (2017) 692, (*) p515-p521	4.7401 4.7401 3.1895 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.03 Sn0.97		
+258171	Sn0.95 Sb0.05 O2	(Sn,Sb)O2	Journal of Alloys and Compounds (2017) 692, (*) p515-p521	4.7416 4.7416 3.1914 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.05 Sn0.95		
+72769	(Ti0.85 Sn0.15) O2	Anatase-TiO2	Journal of the Ceramic Society of Japan (1992) 100, (12) p1473-p1474	3.8065 3.8065 9.6733 90.000 90.000 90.000	4	293.00	0.101325	O2 Sn0.15 Ti0.85		
+156839	(Ti0.99 Ce0.01) O2	Anatase-TiO2	Gaoya Wuli Xuebao (2006) 20, (2) p211-p216	3.7944 3.7944 9.5134 90.000 90.000 90.000	4	293.00	0.101325	Ce0.01 O2 Ti0.99		
+156840	(Ti0.98 Ce0.02) O2	Anatase-TiO2	Gaoya Wuli Xuebao (2006) 20, (2) p211-p216	3.7956 3.7956 9.5143 90.000 90.000 90.000	4	293.00	0.101325	Ce0.02 O2 Ti0.98		
+156841	(Ti0.96 Ce0.04) O2	Anatase-TiO2	Gaoya Wuli Xuebao (2006) 20, (2) p211-p216	3.7966 3.7966 9.5155 90.000 90.000 90.000	4	293.00	0.101325	Ce0.04 O2 Ti0.96		
+156842	(Ti0.94 Ce0.06) O2	Anatase-TiO2	Gaoya Wuli Xuebao (2006) 20, (2) p211-p216	3.7977 3.7977 9.5168 90.000 90.000 90.000	4	293.00	0.101325	Ce0.06 O2 Ti0.94		
+159911	(Ti0.98 Cr0.02) O2	Anatase-TiO2	Wuli Xuebao (2007) 56, (6) p3379-p3387	3.7886 3.7886 9.5045 90.000 90.000 90.000	4	293.00	0.101325	Cr0.02 O2 Ti0.98		
+159912	(Ti0.96 Cr0.04) O2	Anatase-TiO2	Wuli Xuebao (2007) 56, (6) p3379-p3387	3.7877 3.7877 9.5003 90.000 90.000 90.000	4	293.00	0.101325	Cr0.04 O2 Ti0.96		
+159913	(Ti0.94 Cr0.06) O2	Anatase-TiO2	Wuli Xuebao (2007) 56, (6) p3379-p3387	3.7858 3.7858 9.4889 90.000 90.000 90.000	4	293.00	0.101325	Cr0.06 O2 Ti0.94		
+159914	(Ti0.93 Cr0.07) O2	Anatase-TiO2	Wuli Xuebao (2007) 56, (6) p3379-p3387	3.7852 3.7852 9.4860 90.000 90.000 90.000	4	293.00	0.101325	Cr0.07 O2 Ti0.93		
+189266	(Ti0.99 Eu0.01) O2	Anatase-TiO2	Journal of Alloys and Compounds (2013) 581, (*) p330-p334	3.8007 3.8007 9.5445 90.000 90.000 90.000	4	293.00	0.101325	Eu0.01 O2 Ti0.99		
+8245	Nb0.96 Ti0.04 O2	NbO2	Acta Crystallographica, Section B: Structural Crystallography and Crystal Chemistry (1979) 35, (*) p2836-p2842	13.6660 13.6660 5.9970 90.000 90.000 90.000	32	293.00	0.101325	Nb0.96 O2 Ti0.04		
+8246	Nb0.955 Ti0.045 O2	NbO2	Acta Crystallographica, Section B: Structural Crystallography and Crystal Chemistry (1979) 35, (*) p2836-p2842	13.6320 13.6320 5.9710 90.000 90.000 90.000	32	293.00	0.101325	Nb0.955 O2 Ti0.045		
+8247	Nb0.80 Ti0.20 O2	NbO2	Acta Crystallographica, Section B: Structural Crystallography and Crystal Chemistry (1979) 35, (*) p2836-p2842	13.5590 13.5590 5.9980 90.000 90.000 90.000	32	293.00	0.101325	Nb0.8 O2 Ti0.2		
+72275	Cr Nb O4	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (1992) 609, (*) p51-p54	4.6484 4.6484 3.0113 90.000 90.000 90.000	1	293.00	0.101325	Cr1 Nb1 O4		
+72277	Ti Nb O4	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (1992) 609, (*) p51-p54	4.7430 4.7430 2.9944 90.000 90.000 90.000	1	293.00	0.101325	Nb1 O4 Ti1		
+72278	Ti Ta O4	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (1992) 609, (*) p51-p54	4.7090 4.7090 3.0672 90.000 90.000 90.000	1	293.00	0.101325	O4 Ta1 Ti1	5.8	
+80841	Ti.98 O1.892 (O H)0.108	Rutile-TiO2	American Mineralogist (1995) 80, (*) p448-p453	4.5870 4.5870 2.9540 90.000 90.000 90.000	2	24.00	0.101325	H0.108 O2 Ti0.98	4.2	
+86826	Rh (Nb O4)	Rutile-TiO2	Materials Science Forum (1998) 278, (*) p714-p719	4.7019 4.7019 3.0168 90.000 90.000 90.000	1	293.00	0.101325	Nb1 O4 Rh1		
+97274	(Ti0.712 Nb0.288) O2	Rutile-TiO2	American Mineralogist (2003) 88, (*) p986-p995	4.6392 4.6392 2.9902 90.000 90.000 90.000	2	293.00	0.101325	Nb0.288 O2 Ti0.712		
+97275	(Ti0.912 Nb0.088) O2	Rutile-TiO2	American Mineralogist (2003) 88, (*) p986-p995	4.6339 4.6339 2.9886 90.000 90.000 90.000	2	293.00	0.101325	Nb0.088 O2 Ti0.912		
+97276	(Ti0.736 Nb0.264) O2	Rutile-TiO2	American Mineralogist (2003) 88, (*) p986-p995	4.6363 4.6363 2.9903 90.000 90.000 90.000	2	293.00	0.101325	Nb0.264 O2 Ti0.736		
+97278	(Ti0.84 Nb0.16) O2	Rutile-TiO2	American Mineralogist (2003) 88, (*) p986-p995	4.6342 4.6342 2.9886 90.000 90.000 90.000	2	293.00	0.101325	Nb0.16 O2 Ti0.84		
+97279	(Ti0.952 Nb0.048) O2	Rutile-TiO2	American Mineralogist (2003) 88, (*) p986-p995	4.6220 4.6220 2.9763 90.000 90.000 90.000	2	293.00	0.101325	Nb0.048 O2 Ti0.952		
+154961	(Sn0.938 Sb0.062) O1.88	Rutile-TiO2	Journal of Physics and Chemistry of Solids (2002) 63, (*) p765-p772	4.7402 4.7402 3.1856 90.000 90.000 90.000	2	293.00	0.101325	O1.88 Sb0.062 Sn0.938		
+154962	(Sn0.881 Sb0.119) O1.82	Rutile-TiO2	Journal of Physics and Chemistry of Solids (2002) 63, (*) p765-p772	4.7406 4.7406 3.1865 90.000 90.000 90.000	2	293.00	0.101325	O1.82 Sb0.119 Sn0.881		
+159916	(Ti0.995 Cr0.005) O2	Rutile-TiO2	Wuli Xuebao (2007) 56, (6) p3379-p3387	4.5913 4.5913 2.9583 90.000 90.000 90.000	2	293.00	0.101325	Cr0.005 O2 Ti0.995		
+159917	(Ti0.99 Cr0.01) O2	Rutile-TiO2	Wuli Xuebao (2007) 56, (6) p3379-p3387	4.5889 4.5889 2.9562 90.000 90.000 90.000	2	293.00	0.101325	Cr0.01 O2 Ti0.99		
+159918	(Ti0.98 Cr0.02) O2	Rutile-TiO2	Wuli Xuebao (2007) 56, (6) p3379-p3387	4.5867 4.5867 2.9541 90.000 90.000 90.000	2	293.00	0.101325	Cr0.02 O2 Ti0.98		
+159919	(Ti0.97 Cr0.03) O2	Rutile-TiO2	Wuli Xuebao (2007) 56, (6) p3379-p3387	4.5848 4.5848 2.9520 90.000 90.000 90.000	2	293.00	0.101325	Cr0.03 O2 Ti0.97		
+160668	(Sn0.97 Ce0.03) O2	Rutile-TiO2	Chemical sensors (2008) 24, (*) p19-p21	4.7396 4.7396 3.1845 90.000 90.000 90.000	2	293.00	0.101325	Ce0.03 O2 Sn0.97		
+161282	Sn0.39 Ti0.61 O2	Rutile-TiO2	Chemistry of Materials (2008) 20, (*) p4931-p4935	4.6805 4.6805 3.0961 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn0.39 Ti0.61		
+240862	V0.21 Ge0.74 O2	Rutile-TiO2	Acta Crystallographica, Section E: Structure Reports Online (2007) 63, (4) pi99-pi101	4.4001 4.4001 2.8670 90.000 90.000 90.000	2	295.00	0.101325	Ge0.74 O2 V0.21		
+263780	Ge1.14 Ti0.86 O4	Rutile-TiO2	Acta Crystallographica, Section E: Crystallographic Communications (2018) 74, (7) p1010-p1012	4.4930 4.4930 2.9121 90.000 90.000 90.000	1	298.00	0.101325	Ge1.14 O4 Ti0.86		
+401505	(Ti0.33 Ta0.67) O2	Rutile-TiO2	Zeitschrift fuer Naturforschung, B: A Journal of Chemical Sciences (1995) 50, (*) p1167-p1170	4.7344 4.7344 3.0504 90.000 90.000 90.000	2	293.00	0.101325	O2 Ta0.67 Ti0.33		
+9514	Ti Ta O4	Rutile-TiO2	Kristallografiya (1972) 17, (*) p1152-p1161	4.6450 4.6450 3.0200 90.000 90.000 90.000	1	293.00	0.101325	O4 Ta1 Ti1	5.8	
+27943	Cr Nb O4	Rutile-TiO2	Journal of Physics C: Solid State Physics (1976) 9, (*) p2601-p2610	4.6430 4.6430 3.0110 90.000 90.000 90.000	1	77.00	0.101325	Cr1 Nb1 O4		
+32609	(Co0.66 Nb1.34) O4	Rutile-TiO2	Monatshefte fuer Chemie (1980) 111, (*) p1225-p1227	4.7260 4.7260 3.0540 90.000 90.000 90.000	1	293.00	0.101325	Co0.66 Nb1.34 O4		
+37213	(Ni Nb2 O6).6667	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (1983) 503, (*) p101-p105	4.7100 4.7100 3.0380 90.000 90.000 90.000	1	293.00	0.101325	Nb1.3334 Ni0.6667 O4.0002		
+38392	Ti V O4	Rutile-TiO2	Texas Journal of Science (1951) 1, (*) p82-p85	4.5800 4.5800 2.9500 90.000 90.000 90.000	1	293.00	0.101325	O4 Ti1 V1		
+109173	Ti Mo O4	Rutile-TiO2	Acta Chemica Scandinavica  (1962) 16, (*) p293-p296	4.7160 4.7160 2.8990 90.000 90.000 90.000	1	293.00	0.101325	Mo1 O4 Ti1		
+109174	Nb Mo O4	Rutile-TiO2	Acta Chemica Scandinavica  (1962) 16, (*) p293-p296	4.8580 4.8580 2.9120 90.000 90.000 90.000	1	293.00	0.101325	Mo1 Nb1 O4		
+109175	Nb V O4	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (1962) 318, (*) p89-p106	4.6810 4.6810 3.0330 90.000 90.000 90.000	1	293.00	0.101325	Nb1 O4 V1	5.13	
+155956	(Sn0.9 Sb0.1) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.7370 4.7370 3.1862 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.1 Sn0.9		
+155957	(Sn0.9 Sb0.1) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.7206 4.7206 3.1693 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.1 Sn0.9		
+155958	(Sn0.9 Sb0.1) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.7365 4.7365 3.1858 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.1 Sn0.9		
+155959	(Sn0.9 Sb0.1) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.7170 4.7170 3.1653 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.1 Sn0.9		
+155960	(Sn0.8 Sb0.2) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.7357 4.7357 3.1852 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.2 Sn0.8		
+155961	(Sn0.8 Sb0.2) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.7067 4.7067 3.1546 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.2 Sn0.8		
+155962	(Sn0.8 Sb0.2) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.7362 4.7362 3.1858 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.2 Sn0.8		
+155963	(Sn0.8 Sb0.2) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.7034 4.7034 3.1510 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.2 Sn0.8		
+155964	(Sn0.7 Sb0.3) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.7358 4.7358 3.1857 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.3 Sn0.7		
+155965	(Sn0.7 Sb0.3) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.7000 4.7000 3.1477 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.3 Sn0.7		
+155966	(Sn0.7 Sb0.3) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.7364 4.7364 3.1861 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.3 Sn0.7		
+155967	(Sn0.7 Sb0.3) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.7103 4.7103 3.1589 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.3 Sn0.7		
+155968	(Sn0.6 Sb0.4) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.7354 4.7354 3.1856 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.4 Sn0.6		
+155969	(Sn0.6 Sb0.4) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.6970 4.6970 3.1449 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.4 Sn0.6		
+155970	(Sn0.6 Sb0.4) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.7361 4.7361 3.1861 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.4 Sn0.6		
+155971	(Sn0.6 Sb0.4) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.7060 4.7060 3.1548 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.4 Sn0.6		
+155972	(Sn0.5 Sb0.5) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.7347 4.7347 3.1856 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.5 Sn0.5		
+155973	(Sn0.5 Sb0.5) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.6879 4.6879 3.1362 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.5 Sn0.5		
+155974	(Sn0.5 Sb0.5) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.7353 4.7353 3.1859 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.5 Sn0.5		
+155975	(Sn0.5 Sb0.5) O2	Rutile-TiO2	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p2188-p2191	4.7007 4.7007 3.1488 90.000 90.000 90.000	2	293.00	0.101325	O2 Sb0.5 Sn0.5		
+167693	(Sn0.975 Eu0.025) O2	Rutile-TiO2	Journal of Alloys and Compounds (2010) 498, (*) p81-p87	4.7390 4.7390 3.1910 90.000 90.000 90.000	2	293.00	0.101325	Eu0.025 O2 Sn0.975		
+167694	(Sn0.925 Eu0.075) O2	Rutile-TiO2	Journal of Alloys and Compounds (2010) 498, (*) p81-p87	4.7390 4.7390 3.1960 90.000 90.000 90.000	2	293.00	0.101325	Eu0.075 O2 Sn0.925		
+183985	(Sn0.99 Cr0.01) O2	Rutile-TiO2	Physica B: Condensed Matter (Amsterdam, Netherlands) (2012) 407, (*) p624-p628	4.7386 4.7386 3.1867 90.000 90.000 90.000	2	293.00	0.101325	Cr0.01 O2 Sn0.99		
+183986	(Sn0.98 Cr0.02) O2	Rutile-TiO2	Physica B: Condensed Matter (Amsterdam, Netherlands) (2012) 407, (*) p624-p628	4.7383 4.7383 3.1869 90.000 90.000 90.000	2	293.00	0.101325	Cr0.02 O2 Sn0.98		
+183987	(Sn0.97 Cr0.03) O2	Rutile-TiO2	Physica B: Condensed Matter (Amsterdam, Netherlands) (2012) 407, (*) p624-p628	4.7398 4.7398 3.1873 90.000 90.000 90.000	2	293.00	0.101325	Cr0.03 O2 Sn0.97		
+183988	(Sn0.96 Cr0.04) O2	Rutile-TiO2	Physica B: Condensed Matter (Amsterdam, Netherlands) (2012) 407, (*) p624-p628	4.7398 4.7398 3.1873 90.000 90.000 90.000	2	293.00	0.101325	Cr0.04 O2 Sn0.96		
+183989	(Sn0.95 Cr0.05) O2	Rutile-TiO2	Physica B: Condensed Matter (Amsterdam, Netherlands) (2012) 407, (*) p624-p628	4.7394 4.7394 3.1872 90.000 90.000 90.000	2	293.00	0.101325	Cr0.05 O2 Sn0.95		
+184421	(Sn0.97 Mn0.03) O2	Rutile-TiO2	Journal of Alloys and Compounds (2012) 523, (*) p83-p87	4.7930 4.7930 3.1990 90.000 90.000 90.000	2	293.00	0.101325	Mn0.03 O2 Sn0.97		
+184422	(Sn0.95 Mn0.05) O2	Rutile-TiO2	Journal of Alloys and Compounds (2012) 523, (*) p83-p87	4.7910 4.7910 3.1910 90.000 90.000 90.000	2	293.00	0.101325	Mn0.05 O2 Sn0.95		
+184423	(Sn0.93 Mn0.07) O2	Rutile-TiO2	Journal of Alloys and Compounds (2012) 523, (*) p83-p87	4.7880 4.7880 3.1900 90.000 90.000 90.000	2	293.00	0.101325	Mn0.07 O2 Sn0.93		
+184424	(Sn0.91 Mn0.09) O2	Rutile-TiO2	Journal of Alloys and Compounds (2012) 523, (*) p83-p87	4.7790 4.7790 3.1880 90.000 90.000 90.000	2	293.00	0.101325	Mn0.09 O2 Sn0.91		
+184425	(Sn0.85 Mn0.15) O2	Rutile-TiO2	Journal of Alloys and Compounds (2012) 523, (*) p83-p87	4.7750 4.7750 3.1850 90.000 90.000 90.000	2	293.00	0.101325	Mn0.15 O2 Sn0.85		
+193143	(Sn0.9 Fe0.1) O2	Rutile-TiO2	Journal of Magnetism and Magnetic Materials (2015) 375, (*) p74-p79	4.7332 4.7332 3.1796 90.000 90.000 90.000	2	293.00	0.101325	Fe0.1 O2 Sn0.9		
+193144	(Sn0.9 Fe0.1) O2	Rutile-TiO2	Journal of Magnetism and Magnetic Materials (2015) 375, (*) p74-p79	4.7358 4.7358 3.1827 90.000 90.000 90.000	2	293.00	0.101325	Fe0.1 O2 Sn0.9		
+230790	(Sn0.987 Ru0.013) O2	Rutile-TiO2	Journal of Alloys and Compounds (2017) 691, (*) p514-p523	4.7352 4.7352 3.1847 90.000 90.000 90.000	2	293.00	0.101325	O2 Ru0.013 Sn0.987		
+230791	(Sn0.987 Cr0.028) O2	Rutile-TiO2	Journal of Alloys and Compounds (2017) 691, (*) p514-p523	4.7339 4.7339 3.1835 90.000 90.000 90.000	2	293.00	0.101325	Cr0.028 O2 Sn0.987		
+230793	(Sn0.981 La0.019) O2	Rutile-TiO2	Journal of Alloys and Compounds (2017) 691, (*) p514-p523	4.7344 4.7344 3.1842 90.000 90.000 90.000	2	293.00	0.101325	La0.019 O2 Sn0.981		
+230794	(Sn0.978 Nb0.022) O2	Rutile-TiO2	Journal of Alloys and Compounds (2017) 691, (*) p514-p523	4.7310 4.7310 3.1810 90.000 90.000 90.000	2	293.00	0.101325	Nb0.022 O2 Sn0.978		
+230796	(Sn0.98 La0.02) O2	Rutile-TiO2	Journal of Alloys and Compounds (2017) 691, (*) p514-p523	4.7350 4.7350 3.1840 90.000 90.000 90.000	2	293.00	0.101325	La0.02 O2 Sn0.98		
+241554	Sn0.9375 Mn0.0625 O2	Rutile-TiO2	Journal of Electroanalytical Chemistry (2016) 778, (*) p7-p11	4.7480 4.7480 3.2920 90.000 90.000 90.000	2	293.00	0.101325	Mn0.0625 O2 Sn0.9375		
+37138	La (Nb O4)	Scheelite-CaWO4	Materials Research Bulletin (1983) 18, (*) p749-p756	5.4001 5.4001 11.6661 90.000 90.000 90.000	4	500.00	0.101325	La1 Nb1 O4		
+37139	La (Nb O4)	Scheelite-CaWO4	Materials Research Bulletin (1983) 18, (*) p749-p756	5.4009 5.4009 11.6741 90.000 90.000 90.000	4	803.00	0.101325	La1 Nb1 O4		
+69118	Er (V O4)	Scheelite-CaWO4	Acta Crystallographica, Section C: Crystal Structure Communications (1990) 46, (*) p1093-p1094	5.0030 5.0030 11.1430 90.000 90.000 90.000	4	298.00	0.101325	Er1 O4 V1		
+81618	La (Nb O4)	Scheelite-CaWO4	Annual Reports of the Research Reactor Institute, Kyoto University (1995) 28, (*) p25-p32	5.4013 5.4013 11.6597 90.000 90.000 90.000	4	823.00	0.101325	La1 Nb1 O4		
+156944	Th (Ge O4)	Scheelite-CaWO4	Journal of Alloys and Compounds (2007) 438, (*) p274-p278	5.1382 5.1382 11.5365 90.000 90.000 90.000	4	300.00	0.101325	Ge1 O4 Th1		
+157934	Y (Cr O4)	Scheelite-CaWO4	Physical Review B: Condensed Matter and Materials Physics (2007) 75, (*) p104402-1-p104402-7	5.0030 5.0030 11.2636 90.000 90.000 90.000	4	293.00	0.101325	Cr1 O4 Y1		
+202080	Hf (Ge O4)	Scheelite-CaWO4	Journal of the Less-Common Metals (1986) 124, (*) p105-p109	4.8620 4.8620 10.4970 90.000 90.000 90.000	4	293.00	0.101325	Ge1 Hf1 O4		
+202081	Th (Ge O4)	Scheelite-CaWO4	Journal of the Less-Common Metals (1986) 124, (*) p105-p109	5.1450 5.1450 10.5310 90.000 90.000 90.000	4	293.00	0.101325	Ge1 O4 Th1		
+239197	Dy Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2224 5.2224 11.0938 90.000 90.000 90.000	4	883.00	0.101325	Dy1 Nb1 O4		
+239198	Dy Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2273 5.2273 11.0945 90.000 90.000 90.000	4	953.00	0.101325	Dy1 Nb1 O4		
+239199	Dy Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2300 5.2300 11.1083 90.000 90.000 90.000	4	1010.00	0.101325	Dy1 Nb1 O4		
+239200	Dy Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2342 5.2342 11.1170 90.000 90.000 90.000	4	1071.00	0.101325	Dy1 Nb1 O4		
+239201	La Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.3907 5.3907 11.6342 90.000 90.000 90.000	4	657.00	0.101325	La1 Nb1 O4		
+239202	La Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.3927 5.3927 11.6426 90.000 90.000 90.000	4	688.00	0.101325	La1 Nb1 O4		
+239203	La Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.3961 5.3961 11.6525 90.000 90.000 90.000	4	715.00	0.101325	La1 Nb1 O4		
+239204	La Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.3982 5.3982 11.6605 90.000 90.000 90.000	4	743.00	0.101325	La1 Nb1 O4		
+239205	La Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.4010 5.4010 11.6696 90.000 90.000 90.000	4	772.00	0.101325	La1 Nb1 O4		
+239206	La Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.4032 5.4032 11.6806 90.000 90.000 90.000	4	798.00	0.101325	La1 Nb1 O4		
+239208	Y Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2117 5.2117 11.0543 90.000 90.000 90.000	4	1097.00	0.101325	Nb1 O4 Y1		
+239209	Y Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2135 5.2135 11.0595 90.000 90.000 90.000	4	1111.00	0.101325	Nb1 O4 Y1		
+247773	Er (Cr O4)	Scheelite-CaWO4	Journal of Physics: Conference Series (2011) 325, (*) p012012-1-p012012-4	4.9989 4.9989 11.2332 90.000 90.000 90.000	4	100.00	0.101325	Cr1 Er1 O4		
+414675	Ce Nb O4	Scheelite-CaWO4	Acta Crystallographica, Section C: Crystal Structure Communications (2004) 60, (*) pi37-pi39	5.3712 5.3712 11.5810 90.000 90.000 90.000	4	1073.00	0.101325	Ce1 Nb1 O4	5.47(1)	
+414676	Ce Nb O4	Scheelite-CaWO4	Acta Crystallographica, Section C: Crystal Structure Communications (2004) 60, (*) pi37-pi39	5.3769 5.3769 11.5951 90.000 90.000 90.000	4	1073.00	0.101325	Ce1 Nb1 O4		
+416479	Sm (As O4)	Scheelite-CaWO4	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2006) 632, (12-13) p2147-p2147	5.0658 5.0658 11.4613 90.000 90.000 90.000	4	293.00	0.101325	As1 O4 Sm1		
+430619	La (As O4)	Scheelite-CaWO4	Zeitschrift fuer Naturforschung, B: A Journal of Chemical Sciences (2016) 71, (5) p439-p445	5.1692 5.1692 11.8608 90.000 90.000 90.000	4	293.00	0.101325	As1 La1 O4		
+430620	Nd (As O4)	Scheelite-CaWO4	Zeitschrift fuer Naturforschung, B: A Journal of Chemical Sciences (2016) 71, (5) p439-p445	5.1046 5.1046 11.6032 90.000 90.000 90.000	4	293.00	0.101325	As1 Nd1 O4		
+430874	Dy Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2376 5.2376 11.1265 90.000 90.000 90.000	4	1126.00	0.101325	Dy1 Nb1 O4		
+430875	Dy Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2384 5.2384 11.1295 90.000 90.000 90.000	4	1146.00	0.101325	Dy1 Nb1 O4		
+430876	Dy Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2394 5.2394 11.1323 90.000 90.000 90.000	4	1168.00	0.101325	Dy1 Nb1 O4		
+430877	Dy Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2405 5.2405 11.1355 90.000 90.000 90.000	4	1192.00	0.101325	Dy1 Nb1 O4		
+430878	Dy Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2416 5.2416 11.1395 90.000 90.000 90.000	4	1218.00	0.101325	Dy1 Nb1 O4		
+430879	Dy Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2425 5.2425 11.1425 90.000 90.000 90.000	4	1240.00	0.101325	Dy1 Nb1 O4		
+430880	Dy Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2442 5.2442 11.1493 90.000 90.000 90.000	4	1284.00	0.101325	Dy1 Nb1 O4		
+430881	Dy Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2470 5.2470 11.1587 90.000 90.000 90.000	4	1347.00	0.101325	Dy1 Nb1 O4		
+430882	Dy Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2493 5.2493 11.1662 90.000 90.000 90.000	4	1397.00	0.101325	Dy1 Nb1 O4		
+430883	Dy Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2522 5.2522 11.1756 90.000 90.000 90.000	4	1458.00	0.101325	Dy1 Nb1 O4		
+430898	La Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.4055 5.4055 11.6832 90.000 90.000 90.000	4	814.00	0.101325	La1 Nb1 O4		
+430899	La Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.4061 5.4061 11.6871 90.000 90.000 90.000	4	838.00	0.101325	La1 Nb1 O4		
+430900	La Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.4069 5.4069 11.6911 90.000 90.000 90.000	4	864.00	0.101325	La1 Nb1 O4		
+430901	La Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.4077 5.4077 11.6948 90.000 90.000 90.000	4	889.00	0.101325	La1 Nb1 O4		
+430902	La Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.4086 5.4086 11.6986 90.000 90.000 90.000	4	915.00	0.101325	La1 Nb1 O4		
+430903	La Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.4095 5.4095 11.7023 90.000 90.000 90.000	4	940.00	0.101325	La1 Nb1 O4		
+430904	La Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.4103 5.4103 11.7060 90.000 90.000 90.000	4	964.00	0.101325	La1 Nb1 O4		
+430905	La Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.4111 5.4111 11.7096 90.000 90.000 90.000	4	989.00	0.101325	La1 Nb1 O4		
+430917	Y Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2146 5.2146 11.0630 90.000 90.000 90.000	4	1131.00	0.101325	Nb1 O4 Y1		
+430918	Y Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2167 5.2167 11.0704 90.000 90.000 90.000	4	1183.00	0.101325	Nb1 O4 Y1		
+430919	Y Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2206 5.2206 11.0845 90.000 90.000 90.000	4	1277.00	0.101325	Nb1 O4 Y1		
+430920	Y Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2228 5.2228 11.0929 90.000 90.000 90.000	4	1332.00	0.101325	Nb1 O4 Y1		
+430921	Y Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2235 5.2235 11.0960 90.000 90.000 90.000	4	1354.00	0.101325	Nb1 O4 Y1		
+430922	Y Nb O4	Scheelite-CaWO4	Journal of the American Ceramic Society (2014) 97, (10) p3307-p3319	5.2282 5.2282 11.1112 90.000 90.000 90.000	4	1455.00	0.101325	Nb1 O4 Y1		
+432487	Y As O4	Scheelite-CaWO4	Journal of Solid State Chemistry (2018) 263, (*) p65-p71	4.9823 4.9823 11.2071 90.000 90.000 90.000	4	293.00	0.101325	As1 O4 Y1		
+16639	Ge U O4	Scheelite-CaWO4	Acta Crystallographica (1956) 9, (*) p533-p533	5.0840 5.0840 11.2260 90.000 90.000 90.000	4	293.00	0.101325	Ge1 O4 U1		
+173636	Yb (P O4)	Scheelite-CaWO4	Journal of Solid State Chemistry (2008) 181, (10) p2633-p2638	4.4910 4.4910 10.3520 90.000 90.000 90.000	4	293.00	45700	O4 P1 Yb1		
+246710	Y (V O4)	Scheelite-CaWO4	Physical Review B: Condensed Matter and Materials Physics (2004) 70, (*) p064109-1-p064109-6	4.8929 4.8929 10.7880 90.000 90.000 90.000	4	293.00	16400	O4 V1 Y1		
+246711	Y (V O4)	Scheelite-CaWO4	Physical Review B: Condensed Matter and Materials Physics (2004) 70, (*) p064109-1-p064109-6	5.0320 5.0320 11.2330 90.000 90.000 90.000	4	293.00	0.101325	O4 V1 Y1		
+250875	Sm V O4	Scheelite-CaWO4	Inorganic Chemistry (2013) 52, (9) p5464-p5469	5.1090 5.1090 11.4113 90.000 90.000 90.000	4	293.00	0.101325	O4 Sm1 V1		
+252450	Sm V O4	Scheelite-CaWO4	Journal of Physics: Condensed Matter (2016) 28, (3) p035402-1-p035402-10	5.0440 5.0440 11.2750 90.000 90.000 90.000	4	295.00	10000	O4 Sm1 V1		
+2504	Y (V O4)	Zircon-ZrSiO4	Acta Crystallographica, Section B: Structural Crystallography and Crystal Chemistry (1973) 29, (*) p141-p142	7.1200 7.1200 6.2890 90.000 90.000 90.000	4	293.00	0.101325	O4 V1 Y1	4.49	
+31177	Hf Si O4	Zircon-ZrSiO4	American Mineralogist (1982) 67, (*) p804-p808	6.5725 6.5725 5.9632 90.000 90.000 90.000	4	293.00	0.101325	Hf1 O4 Si1	6.97	
+36052	Er (P O4)	Zircon-ZrSiO4	Acta Crystallographica, Section C: Crystal Structure Communications (1983) 39, (*) p23-p24	6.8600 6.8600 6.0030 90.000 90.000 90.000	4	293.00	0.101325	Er1 O4 P1	6.15	
+36054	Yb (P O4)	Zircon-ZrSiO4	Acta Crystallographica, Section C: Crystal Structure Communications (1983) 39, (*) p23-p24	6.8160 6.8160 5.9660 90.000 90.000 90.000	4	293.00	0.101325	O4 P1 Yb1	6.4	
+59111	Hf Si O4	Zircon-ZrSiO4	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (1986) 532, (*) p171-p174	6.5800 6.5800 5.9800 90.000 90.000 90.000	4	293.00	0.101325	Hf1 O4 Si1		
+63202	Nb (B O4)	Zircon-ZrSiO4	Angewandte Chemie (1988) 100, (*) p973-p975	6.2141 6.2141 5.4760 90.000 90.000 90.000	4	297.00	0.101325	B1 Nb1 O4		
+66033	Ce (V O4)	Zircon-ZrSiO4	Zeitschrift fuer Naturforschung, B: A Journal of Chemical Sciences (1990) 45, (*) p598-p602	7.3830 7.3830 6.4850 90.000 90.000 90.000	4	293.00	0.101325	Ce1 O4 V1	4.75	
+74483	Sc (P O4)	Zircon-ZrSiO4	Powder Diffraction (1993) 8, (*) p164-p167	6.5787 6.5787 5.7963 90.000 90.000 90.000	4	293.00	0.101325	O4 P1 Sc1		
+78073	Sc (V O4)	Zircon-ZrSiO4	Journal of Solid State Chemistry (1994) 109, (*) p197-p202	6.7804 6.7804 6.1345 90.000 90.000 90.000	4	293.00	0.101325	O4 Sc1 V1	3.7	
+78074	Y (V O4)	Zircon-ZrSiO4	Journal of Solid State Chemistry (1994) 109, (*) p197-p202	7.1183 7.1183 6.2893 90.000 90.000 90.000	4	293.00	0.101325	O4 V1 Y1	4.24	
+78075	Ce (V O4)	Zircon-ZrSiO4	Journal of Solid State Chemistry (1994) 109, (*) p197-p202	7.4004 7.4004 6.4972 90.000 90.000 90.000	4	293.00	0.101325	Ce1 O4 V1	4.75	
+78077	Nd (V O4)	Zircon-ZrSiO4	Journal of Solid State Chemistry (1994) 109, (*) p197-p202	7.3308 7.3308 6.4356 90.000 90.000 90.000	4	293.00	0.101325	Nd1 O4 V1	4.95	
+78080	Er (V O4)	Zircon-ZrSiO4	Journal of Solid State Chemistry (1994) 109, (*) p197-p202	7.0957 7.0957 6.2729 90.000 90.000 90.000	4	293.00	0.101325	Er1 O4 V1	5.9	
+78082	Yb (V O4)	Zircon-ZrSiO4	Journal of Solid State Chemistry (1994) 109, (*) p197-p202	7.0427 7.0427 6.2472 90.000 90.000 90.000	4	293.00	0.101325	O4 V1 Yb1	6.15	
+79754	Y (P O4)	Zircon-ZrSiO4	American Mineralogist (1995) 80, (*) p21-p26	6.8947 6.8947 6.0276 90.000 90.000 90.000	4	293.00	0.101325	O4 P1 Y1	4.68	
+79758	Er (P O4)	Zircon-ZrSiO4	American Mineralogist (1995) 80, (*) p21-p26	6.8507 6.8507 5.9968 90.000 90.000 90.000	4	293.00	0.101325	Er1 O4 P1	6.15	
+79760	Yb (P O4)	Zircon-ZrSiO4	American Mineralogist (1995) 80, (*) p21-p26	6.8093 6.8093 5.9639 90.000 90.000 90.000	4	293.00	0.101325	O4 P1 Yb1	6.4	
+81701	Sm (V O4)	Zircon-ZrSiO4	Inorganica Chimica Acta (1996) 248, (*) p85-p88	7.2647 7.2647 6.3840 90.000 90.000 90.000	4	292.00	0.101325	O4 Sm1 V1	5.2	
+81703	Gd (V O4)	Zircon-ZrSiO4	Inorganica Chimica Acta (1996) 248, (*) p85-p88	7.2122 7.2122 6.3460 90.000 90.000 90.000	4	292.00	0.101325	Gd1 O4 V1	5.45	
+84235	Er (V O4)	Zircon-ZrSiO4	Vestnik Moskovskogo Universiteta, Seriya 2: Khimiya (1990) 31, (3) p266-p270	7.1030 7.1030 6.3050 90.000 90.000 90.000	4	293.00	0.101325	Er1 O4 V1		
+92040	Ce (Si O4)	Zircon-ZrSiO4	Powder Diffraction (2000) 15, (4) p234-p238	6.9564 6.9564 6.1953 90.000 90.000 90.000	4	293.00	0.101325	Ce1 O4 Si1		
+93786	Nd Cr O4	Zircon-ZrSiO4	Journal of Solid State Chemistry (2001) 160, (*) p362-p367	7.3118 7.3118 6.4002 90.000 90.000 90.000	4	293.00	0.101325	Cr1 Nd1 O4		
+93787	Sm (Cr O4)	Zircon-ZrSiO4	Journal of Solid State Chemistry (2001) 160, (*) p362-p367	7.2507 7.2507 6.3517 90.000 90.000 90.000	4	293.00	0.101325	Cr1 O4 Sm1		
+95971	Y (Cr O4)	Zircon-ZrSiO4	Journal of Materials Chemistry (2002) 12, (*) p1189-p1193	7.1162 7.1162 6.2543 90.000 90.000 90.000	4	293.00	0.101325	Cr1 O4 Y1		
+152691	Sm (V O4)	Zircon-ZrSiO4	Journal of Alloys and Compounds (2005) 395, (*) p149-p153	7.2467 7.2467 6.3722 90.000 90.000 90.000	4	293.00	0.101325	O4 Sm1 V1		
+152692	Gd (V O4)	Zircon-ZrSiO4	Journal of Alloys and Compounds (2005) 395, (*) p149-p153	7.1926 7.1926 6.3392 90.000 90.000 90.000	4	293.00	0.101325	Gd1 O4 V1		
+155920	Sc (As O4)	Zircon-ZrSiO4	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p1154-p1162	6.7102 6.7102 6.1132 90.000 90.000 90.000	4	295.00	0.101325	As1 O4 Sc1		
+156945	Th (Ge O4)	Zircon-ZrSiO4	Journal of Alloys and Compounds (2007) 438, (*) p274-p278	7.2399 7.2399 6.5416 90.000 90.000 90.000	4	300.00	0.101325	Ge1 O4 Th1		
+157326	Ce (V O4)	Zircon-ZrSiO4	Industrial & Engineering Chemistry Research (2007) 46, (*) p1013-p1017	7.3668 7.3668 6.4852 90.000 90.000 90.000	4	293.00	0.101325	Ce1 O4 V1		
+157328	Nd (V O4)	Zircon-ZrSiO4	Industrial & Engineering Chemistry Research (2007) 46, (*) p1013-p1017	7.3607 7.3607 6.4631 90.000 90.000 90.000	4	293.00	0.101325	Nd1 O4 V1		
+157933	Y (Cr O4)	Zircon-ZrSiO4	Physical Review B: Condensed Matter and Materials Physics (2007) 75, (*) p104402-1-p104402-7	7.1074 7.1074 6.2486 90.000 90.000 90.000	4	293.00	0.101325	Cr1 O4 Y1		
+169173	Sc (V O4)	Zircon-ZrSiO4	Crystal Growth & Design (2010) 10, (10) p4389-p4400	6.7885 6.7885 6.1392 90.000 90.000 90.000	4	296.00	0.101325	O4 Sc1 V1		
+171193	Yb (As O4)	Zircon-ZrSiO4	Acta Crystallographica, Section E: Structure Reports Online (2005) 61, (*) pi270-pi272	6.9712 6.9712 6.2431 90.000 90.000 90.000	4	293.00	0.101325	As1 O4 Yb1		
+174155	Sc (V O3.94)	Zircon-ZrSiO4	Inorganic Chemistry (2009) 48, (22) p10553-p10559	6.7776 6.7776 6.1404 90.000 90.000 90.000	4	296.00	0.101325	O3.94 Sc1 V1		
+191450	Nd (V O4)	Zircon-ZrSiO4	Materials Research Bulletin (2014) 50, (*) p279-p284	7.3600 7.3600 6.4710 90.000 90.000 90.000	4	293.00	300	Nd1 O4 V1		
+201131	Y (P O4)	Zircon-ZrSiO4	Inorganica Chimica Acta (1982) 60, (*) p39-p43	6.8817 6.8817 6.0177 90.000 90.000 90.000	4	293.00	0.101325	O4 P1 Y1	4.25	
+201132	Sc P O4	Zircon-ZrSiO4	Inorganica Chimica Acta (1982) 60, (*) p39-p43	6.5740 6.5740 5.7910 90.000 90.000 90.000	4	293.00	0.101325	O4 P1 Sc1		
+202082	Th (Ge O4)	Zircon-ZrSiO4	Journal of the Less-Common Metals (1986) 124, (*) p105-p109	7.2300 7.2300 6.5390 90.000 90.000 90.000	4	293.00	0.101325	Ge1 O4 Th1		
+238223	Gd V O4	Zircon-ZrSiO4	Inorganic Chemistry (2014) 53, (23) p12243-p12252	7.2230 7.2230 6.3730 90.000 90.000 90.000	4	293.00	0.101325	Gd1 O4 V1		
+238224	Gd V O4	Zircon-ZrSiO4	Inorganic Chemistry (2014) 53, (23) p12243-p12252	7.2230 7.2230 6.3730 90.000 90.000 90.000	4	293.00	0.101325	Gd1 O4 V1		
+257305	Sc P O4	Zircon-ZrSiO4	RSC Advances (2016) 6, (34) p28887-p28894	6.5780 6.5780 5.7960 90.000 90.000 90.000	4	293.00	0.101325	O4 P1 Sc1		
+411083	La (V O4)	Zircon-ZrSiO4	Journal of Solid State Chemistry (2000) 152, (*) p486-p491	7.4578 7.4578 6.5417 90.000 90.000 90.000	4	293.00	0.101325	La1 O4 V1		
+415339	Sm (As O4)	Zircon-ZrSiO4	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (2005) 631, (*) p1799-p1802	7.1857 7.1857 6.3906 90.000 90.000 90.000	4	293.00	0.101325	As1 O4 Sm1		
+432488	Y As O4	Zircon-ZrSiO4	Journal of Solid State Chemistry (2018) 263, (*) p65-p71	7.0463 7.0463 6.2894 90.000 90.000 90.000	4	293.00	0.101325	As1 O4 Y1		
+9398	Yb (V O4)	Zircon-ZrSiO4	Journal of Solid State Chemistry (1972) 5, (*) p11-p14	7.0435 7.0435 6.2470 90.000 90.000 90.000	4	4.20	0.101325	O4 V1 Yb1	6.1	
+15601	Yb (V O4)	Zircon-ZrSiO4	Journal of Physical Chemistry (1952) 56, (*) p145-p148	7.0400 7.0400 6.2300 90.000 90.000 90.000	4	293.00	0.101325	O4 V1 Yb1	6.15	
+15604	Y (V O4)	Zircon-ZrSiO4	Journal of Physical Chemistry (1952) 56, (*) p145-p148	7.1000 7.1000 6.2700 90.000 90.000 90.000	4	293.00	0.101325	O4 V1 Y1	4.3	
+15607	Gd (V O4)	Zircon-ZrSiO4	Journal of Physical Chemistry (1952) 56, (*) p145-p148	7.1900 7.1900 6.3300 90.000 90.000 90.000	4	293.00	0.101325	Gd1 O4 V1	5.5	
+15609	Sm (V O4)	Zircon-ZrSiO4	Journal of Physical Chemistry (1952) 56, (*) p145-p148	7.2400 7.2400 6.3600 90.000 90.000 90.000	4	293.00	0.101325	O4 Sm1 V1	5.2	
+15610	Nd (V O4)	Zircon-ZrSiO4	Journal of Physical Chemistry (1952) 56, (*) p145-p148	7.3300 7.3300 6.4300 90.000 90.000 90.000	4	293.00	0.101325	Nd1 O4 V1	5	
+15612	Ce (V O4)	Zircon-ZrSiO4	Journal of Physical Chemistry (1952) 56, (*) p145-p148	7.3400 7.3400 6.4700 90.000 90.000 90.000	4	293.00	0.101325	Ce1 O4 V1	4.75	
+15670	Er (P O4)	Zircon-ZrSiO4	Chemical Physics Letters (1968) 2, (*) p47-p50	6.8630 6.8630 6.0070 90.000 90.000 90.000	4	293.00	0.101325	Er1 O4 P1	6.15	
+15671	Er (V O4)	Zircon-ZrSiO4	Chemical Physics Letters (1968) 2, (*) p47-p50	7.1000 7.1000 6.2790 90.000 90.000 90.000	4	293.00	0.101325	Er1 O4 V1	5.9	
+16299	Nd (V O4)	Zircon-ZrSiO4	Journal of Solid State Chemistry (1971) 3, (*) p458-p465	7.3290 7.3290 6.4356 90.000 90.000 90.000	4	293.00	0.101325	Nd1 O4 V1	5	
+16300	Er (V O4)	Zircon-ZrSiO4	Journal of Solid State Chemistry (1971) 3, (*) p458-p465	7.0975 7.0975 6.2723 90.000 90.000 90.000	4	293.00	0.101325	Er1 O4 V1	5.9	
+16648	Sc P O4	Zircon-ZrSiO4	Acta Crystallographica (1956) 9, (*) p677-p678	6.5780 6.5780 5.7960 90.000 90.000 90.000	4	293.00	0.101325	O4 P1 Sc1	3.7	
+24513	Y (As O4)	Zircon-ZrSiO4	Gazzetta Chimica Italiana (1934) 64, (*) p662-p674	6.9040 6.9040 6.2820 90.000 90.000 90.000	4	293.00	0.101325	As1 O4 Y1	4.561	
+24514	Y (P O4)	Zircon-ZrSiO4	Gazzetta Chimica Italiana (1934) 64, (*) p662-p674	6.8760 6.8760 6.1860 90.000 90.000 90.000	4	293.00	0.101325	O4 P1 Y1	3.785	
+26894	Y (V O4)	Zircon-ZrSiO4	Zeitschrift fuer Physikalische Chemie, Abteilung B: Chemie der Elementarprozesse, Aufbau der Materie (1933) 20, (*) p345-p350	7.1260 7.1260 6.1790 90.000 90.000 90.000	4	293.00	0.101325	O4 V1 Y1	4.49	
+26979	Nd Cr O4	Zircon-ZrSiO4	Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences (1964) 259, (*) p411-p413	7.3110 7.3110 6.4020 90.000 90.000 90.000	4	293.00	0.101325	Cr1 Nd1 O4		
+26980	Sm (Cr O4)	Zircon-ZrSiO4	Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences (1964) 259, (*) p411-p413	7.2510 7.2510 6.3560 90.000 90.000 90.000	4	293.00	0.101325	Cr1 O4 Sm1		
+26982	Gd Cr O4	Zircon-ZrSiO4	Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences (1964) 259, (*) p411-p413	7.2040 7.2040 6.3150 90.000 90.000 90.000	4	293.00	0.101325	Cr1 Gd1 O4		
+26986	Er Cr O4	Zircon-ZrSiO4	Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences (1964) 259, (*) p411-p413	7.0930 7.0930 6.2300 90.000 90.000 90.000	4	293.00	0.101325	Cr1 Er1 O4		
+26987	Yb Cr O4	Zircon-ZrSiO4	Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences (1964) 259, (*) p411-p413	7.0580 7.0580 6.2160 90.000 90.000 90.000	4	293.00	0.101325	Cr1 O4 Yb1		
+26989	Y Cr O4	Zircon-ZrSiO4	Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences (1964) 259, (*) p411-p413	7.1120 7.1120 6.2510 90.000 90.000 90.000	4	293.00	0.101325	Cr1 O4 Y1		
+27947	Sc (V O4)	Zircon-ZrSiO4	Journal of Physical Chemistry (1953) 57, (*) p535-p537	6.7800 6.7800 6.1200 90.000 90.000 90.000	4	293.00	0.101325	O4 Sc1 V1	3.6	
+28554	Y (P O4)	Zircon-ZrSiO4	Zeitschrift fuer Kristallographie (1965) 121, (*) p315-p316	6.8780 6.8780 6.0360 90.000 90.000 90.000	4	293.00	0.101325	O4 P1 Y1	4.68	
+36060	Y (V O4)	Zircon-ZrSiO4	Acta Crystallographica, Section B: Structural Crystallography and Crystal Chemistry (1968) 24, (*) p292-p293	7.1230 7.1230 6.2920 90.000 90.000 90.000	4	293.00	0.101325	O4 V1 Y1	4.25	
+40122	Er (V O4)	Zircon-ZrSiO4	Chemical Physics Letters (1968) 2, (*) p47-p50	7.0975 7.0975 6.2723 90.000 90.000 90.000	4	77.00	0.101325	Er1 O4 V1	5.9	
+51903	Gd (Cr O4)	Zircon-ZrSiO4	Journal of Solid State Chemistry (2002) 164, (*) p313-p319	7.2030 7.2030 6.3190 90.000 90.000 90.000	4	293.00	0.101325	Cr1 Gd1 O4		
+51906	Yb (Cr O4)	Zircon-ZrSiO4	Journal of Solid State Chemistry (2002) 164, (*) p313-p319	7.0370 7.0370 6.2040 90.000 90.000 90.000	4	293.00	0.101325	Cr1 O4 Yb1		
+56113	Y (P O4)	Zircon-ZrSiO4	Philosophical Magazine  (1927) 4, (*) p511-p525	6.9000 6.9000 6.0260 90.000 90.000 90.000	4	293.00	0.101325	O4 P1 Y1	4.5	
+90461	Nd Cr O4	Zircon-ZrSiO4	Journal of Alloys and Compounds (2000) 312, (*) p53-p59	7.3050 7.3050 6.3940 90.000 90.000 90.000	4	293.00	0.101325	Cr1 Nd1 O4		
+90462	Sm (Cr O4)	Zircon-ZrSiO4	Journal of Alloys and Compounds (2000) 312, (*) p53-p59	7.2440 7.2440 6.3470 90.000 90.000 90.000	4	293.00	0.101325	Cr1 O4 Sm1		
+95166	Er (Cr O4)	Zircon-ZrSiO4	Journal of Alloys and Compounds (2002) 2000, (*) p369-p374	7.0620 7.0620 6.2010 90.000 90.000 90.000	4	100.00	0.101325	Cr1 Er1 O4		
+96405	Nd (Cr O4)	Zircon-ZrSiO4	Journal of Solid State Chemistry (2003) 171, (*) p161-p169	7.2660 7.2660 6.3580 90.000 90.000 90.000	4	50.00	0.101325	Cr1 Nd1 O4		
+96406	Er (Cr O4)	Zircon-ZrSiO4	Journal of Solid State Chemistry (2003) 171, (*) p161-p169	7.0550 7.0550 6.1930 90.000 90.000 90.000	4	50.00	0.101325	Cr1 Er1 O4		
+107638	Y (V O4)	Zircon-ZrSiO4	American Mineralogist (1971) 56, (*) p395-p410	7.1050 7.1050 6.2000 90.000 90.000 90.000	4	293.00	0.101325	O4 V1 Y1		
+164837	Sc (V O4)	Zircon-ZrSiO4	Physical Review B: Condensed Matter and Materials Physics (2009) 79, (*) p184104-1-p184104-9	6.7805 6.7805 6.1346 90.000 90.000 90.000	4	293.00	0.101325	O4 Sc1 V1		
+167089	Er (P O4)	Zircon-ZrSiO4	Eesti NSV Teaduste Akadeemia Toimetised, Keemia, Geoloogia (1991) 28, (*) p515-p518	6.8460 6.8460 5.9910 90.000 90.000 90.000	4	4.40	0.101325	Er1 O4 P1		
+167090	Er (P O4)	Zircon-ZrSiO4	Eesti NSV Teaduste Akadeemia Toimetised, Keemia, Geoloogia (1991) 28, (*) p515-p518	6.8430 6.8430 5.9890 90.000 90.000 90.000	4	0.40	0.101325	Er1 O4 P1		
+167091	Er (V O4)	Zircon-ZrSiO4	Eesti NSV Teaduste Akadeemia Toimetised, Keemia, Geoloogia (1991) 28, (*) p515-p518	7.0820 7.0820 6.2510 90.000 90.000 90.000	4	5.00	0.101325	Er1 O4 V1		
+167092	Er (V O4)	Zircon-ZrSiO4	Eesti NSV Teaduste Akadeemia Toimetised, Keemia, Geoloogia (1991) 28, (*) p515-p518	7.0820 7.0820 6.2500 90.000 90.000 90.000	4	0.50	0.101325	Er1 O4 V1		
+173635	Yb (P O4)	Zircon-ZrSiO4	Journal of Solid State Chemistry (2008) 181, (10) p2633-p2638	6.8010 6.8010 5.9650 90.000 90.000 90.000	4	293.00	1000	O4 P1 Yb1		
+183202	Ce (V O4)	Zircon-ZrSiO4	Physical Review B: Condensed Matter and Materials Physics (2011) 84, (*) p024111-1-p024111-12	7.3990 7.3990 6.4820 90.000 90.000 90.000	4	293.00	0.101325	Ce1 O4 V1		
+186231	Gd (V O4)	Zircon-ZrSiO4	Journal of Alloys and Compounds (2012) 538, (*) p56-p60	7.1986 7.1986 6.3353 90.000 90.000 90.000	4	293.00	0.101325	Gd1 O4 V1		
+202425	Ce (V O4)	Zircon-ZrSiO4	Bulletin de Mineralogie (1987) 110, (*) p657-p663	7.3540 7.3540 6.4880 90.000 90.000 90.000	4	293.00	0.101325	Ce1 O4 V1	4.76	
+246708	Y (V O4)	Zircon-ZrSiO4	Physical Review B: Condensed Matter and Materials Physics (2004) 70, (*) p064109-1-p064109-6	7.1224 7.1224 6.2913 90.000 90.000 90.000	4	293.00	0.101325	O4 V1 Y1		
+246709	Y (V O4)	Zircon-ZrSiO4	Physical Review B: Condensed Matter and Materials Physics (2004) 70, (*) p064109-1-p064109-6	6.9803 6.9803 6.2131 90.000 90.000 90.000	4	293.00	7800	O4 V1 Y1		
+247450	Ce (V O4)	Zircon-ZrSiO4	Journal of Solid State Chemistry (2010) 183, (6) p1231-p1238	7.4004 7.4004 6.4982 90.000 90.000 90.000	4	293.00	0.101325	Ce1 O4 V1		
+253504	Er Si O4	Zircon-ZrSiO4	Inorganic Chemistry (2016) 55, (21) p11273-p11282	6.8837 6.8837 6.0227 90.000 90.000 90.000	4	293.00	0.101325	Er1 O4 Si1		
+257652	Sc V O4	Zircon-ZrSiO4	Journal of Physics: Condensed Matter (2017) 29, (5) p055401-1-p055401-12	6.7805 6.7805 6.1522 90.000 90.000 90.000	4	293.00	500	O4 Sc1 V1		
+259796	La (V O4)	Zircon-ZrSiO4	Optical Materials (Amsterdam, Netherlands) (2015) 49, (*) p32-p38	7.4569 7.4569 6.5483 90.000 90.000 90.000	4	293.00	0.101325	La1 O4 V1		
+259802	Ce (V O4)	Zircon-ZrSiO4	Materials Research Bulletin (2016) 81, (*) p71-p84	7.3700 7.3700 6.4800 90.000 90.000 90.000	4	293.00	0.101325	Ce1 O4 V1		
+259803	Nd (V O4)	Zircon-ZrSiO4	Materials Research Bulletin (2016) 81, (*) p71-p84	7.3400 7.3400 6.4500 90.000 90.000 90.000	4	293.00	0.101325	Nd1 O4 V1		

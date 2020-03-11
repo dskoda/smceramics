@@ -1,0 +1,249 @@
+CollectionCode	StructuredFormula	StructureType	Reference	StandardisedCellParameter	FormulaUnitsPerCell	Temperature	Pressure	SumFormula	MeasuredDensity	
+9852	Ti O2	Anatase-TiO2	Zeitschrift fuer Kristallographie (1972) 136, (*) p273-p281	3.7842 3.7842 9.5146 90.000 90.000 90.000	4	298.00	0.101325	O2 Ti1	3.88(9)	
+9853	Ti O2	Anatase-TiO2	Zeitschrift fuer Kristallographie (1972) 136, (*) p273-p281	3.7892 3.7892 9.5370 90.000 90.000 90.000	4	573.00	0.101325	O2 Ti1		
+9854	Ti O2	Anatase-TiO2	Zeitschrift fuer Kristallographie (1972) 136, (*) p273-p281	3.7971 3.7971 9.5790 90.000 90.000 90.000	4	873.00	0.101325	O2 Ti1		
+9855	Ti O2	Anatase-TiO2	Zeitschrift fuer Kristallographie (1972) 136, (*) p273-p281	3.8040 3.8040 9.6140 90.000 90.000 90.000	4	1073.00	0.101325	O2 Ti1	3.87	
+92363	Ti O2	Anatase-TiO2	Ultramicroscopy (2000) 81, (*) p263-p270	3.7710 3.7710 9.4300 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+93098	Ti O2	Anatase-TiO2	Journal of Applied Crystallography (2001) 34, (*) p757-p762	3.7840 3.7840 9.5000 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+94566	Ti O2	Anatase-TiO2	Acta Crystallographica, Section A: Foundations of Crystallography (2002) 58, (*) p308-p315	3.8720 3.8720 9.6160 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+154601	Ti O2	Anatase-TiO2	Journal of Alloys and Compounds (2006) 413, (*) p159-p174	3.7960 3.7960 9.4440 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+154602	Ti O2	Anatase-TiO2	Journal of Alloys and Compounds (2006) 413, (*) p159-p174	3.7990 3.7990 9.5090 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+154603	Ti O2	Anatase-TiO2	Journal of Alloys and Compounds (2006) 413, (*) p159-p174	3.7850 3.7850 9.4820 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+154604	Ti O2	Anatase-TiO2	Journal of Alloys and Compounds (2006) 413, (*) p159-p174	3.7860 3.7860 9.4950 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+156838	Ti O2	Anatase-TiO2	Gaoya Wuli Xuebao (2006) 20, (2) p211-p216	3.7927 3.7927 9.5091 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+159910	Ti O2	Anatase-TiO2	Wuli Xuebao (2007) 56, (6) p3379-p3387	3.7927 3.7927 9.5091 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+172914	Ti O2	Anatase-TiO2	Journal of Solid State Chemistry (2007) 180, (1) p322-p330	3.7846 3.7846 9.5123 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+172916	Ti O2	Anatase-TiO2	Journal of Solid State Chemistry (2007) 180, (1) p322-p330	3.7850 3.7850 9.5133 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+24276	Ti O2	Anatase-TiO2	Zeitschrift fuer Kristallographie (1942) 104, (*) p358-p374	3.7760 3.7760 9.4860 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+31064	Ti O2	Anatase-TiO2	Zeitschrift fuer Kristallographie (1924) 59, (*) p1-p54	3.7300 3.7300 9.3700 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+44882	Ti O2	Anatase-TiO2	Journal of the American Chemical Society (1955) 77, (*) p4708-p4709	3.7850 3.7850 9.5140 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1	3.88	
+63711	Ti O2	Anatase-TiO2	Acta Crystallographica, Section B: Structural Science (1991) 47, (*) p462-p468	3.7845 3.7845 9.5143 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+76173	Ti O2	Anatase-TiO2	Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences (1953) 236, (*) p944-p946	3.7770 3.7770 9.5010 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+96946	Ti O2	Anatase-TiO2	Journal of the American Chemical Society (2003) 125, (*) p840-p848	3.7867 3.7867 9.5149 90.000 90.000 90.000	4	10.00	0.101325	O2 Ti1		
+154607	Ti O2	Anatase-TiO2	Journal of Alloys and Compounds (2006) 413, (*) p159-p174	3.7900 3.7900 9.4100 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+154608	Ti O2	Anatase-TiO2	Journal of Alloys and Compounds (2006) 413, (*) p159-p174	3.8500 3.8500 9.4600 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+154609	Ti O2	Anatase-TiO2	Journal of Alloys and Compounds (2006) 413, (*) p159-p174	3.7700 3.7700 9.4200 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+154610	Ti O2	Anatase-TiO2	Journal of Alloys and Compounds (2006) 413, (*) p159-p174	3.8000 3.8000 9.4600 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+193265	Ti O2	Anatase-TiO2	Diyala Journal for Pure Sciences (2013) 9, (2) p108-p119	3.7819 3.7819 9.5271 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+193267	Ti O2	Anatase-TiO2	Diyala Journal for Pure Sciences (2013) 9, (2) p108-p119	3.7845 3.7845 9.5111 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+193269	Ti O2	Anatase-TiO2	Diyala Journal for Pure Sciences (2013) 9, (2) p108-p119	3.8015 3.8015 9.5503 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+193271	Ti O2	Anatase-TiO2	Diyala Journal for Pure Sciences (2013) 9, (2) p108-p119	3.7818 3.7818 9.5275 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+200392	Ti O2	Anatase-TiO2	Kristallografiya (1977) 22, (*) p1253-p1258	3.7800 3.7800 9.5100 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+202242	Ti O2	Anatase-TiO2	Journal of the American Chemical Society (1987) 109, (*) p3639-p3646	3.7848 3.7848 9.5124 90.000 90.000 90.000	4	295.00	0.101325	O2 Ti1		
+202243	Ti O2	Anatase-TiO2	Journal of the American Chemical Society (1987) 109, (*) p3639-p3646	3.7822 3.7822 9.5023 90.000 90.000 90.000	4	15.00	0.101325	O2 Ti1		
+242104	Ti O2	Anatase-TiO2	Journal of Alloys and Compounds (2017) 692, (*) p212-p218	3.7847 3.7847 9.5140 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+242105	Ti O2	Anatase-TiO2	Journal of Alloys and Compounds (2017) 692, (*) p212-p218	3.7851 3.7851 9.5154 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+242106	Ti O2	Anatase-TiO2	Journal of Alloys and Compounds (2017) 692, (*) p212-p218	3.7847 3.7847 9.5139 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti1		
+23783	Ge O2	Cristobalite(alpha)	Monatshefte fuer Chemie (1971) 102, (*) p1006-p1009	4.9900 4.9900 7.0600 90.000 90.000 90.000	4	293.00	0.101325	Ge1 O2		
+96	Nb O2	NbO2	Acta Crystallographica, Section B: Structural Crystallography and Crystal Chemistry (1976) 32, (*) p1579-p1580	13.6960 13.6960 5.9810 90.000 90.000 90.000	32	293.00	0.101325	Nb1 O2		
+8244	Nb O2	NbO2	Acta Crystallographica, Section B: Structural Crystallography and Crystal Chemistry (1979) 35, (*) p2836-p2842	13.6950 13.6950 5.9810 90.000 90.000 90.000	32	293.00	0.101325	Nb1 O2		
+28500	Nb O2	NbO2	Physical Review  B: Solid State (1976) 13, (*) p2965-p2975	13.6600 13.6600 5.9640 90.000 90.000 90.000	32	298.00	0.101325	Nb1 O2		
+34425	Nb O2	NbO2	Physical Review  B: Solid State (1976) 13, (*) p2965-p2975	13.6600 13.6600 5.9640 90.000 90.000 90.000	32	293.00	0.101325	Nb1 O2		
+75197	Nb O2	NbO2	Journal of Solid State Chemistry (1994) 113, (*) p9-p14	13.7020 13.7020 5.9850 90.000 90.000 90.000	32	298.00	0.101325	Nb1 O2		
+88879	Nb O2	NbO2	Kristallografiya (1999) 44, (1) p6-p11	13.6980 13.6980 5.9760 90.000 90.000 90.000	32	293.00	0.101325	Nb1 O2		
+27155	Nb O2	NbO2	Arkiv foer Kemi (1962) 19, (*) p435-p446	13.7000 13.7000 5.9870 90.000 90.000 90.000	32	293.00	0.101325	Nb1 O2	5.98	
+27487	Nb O2	NbO2	Acta Chemica Scandinavica  (1961) 15, (*) p707-p708	13.7100 13.7100 5.9850 90.000 90.000 90.000	32	293.00	0.101325	Nb1 O2		
+6318	Gd O2	PbClF	Kristallografiya (1974) 19, (*) p751-p753	3.9400 3.9400 6.7600 90.000 90.000 90.000	2	293.00	0.101325	Gd1 O2		
+9161	Ti O2	Rutile-TiO2	Acta Crystallographica, Section B: Structural Crystallography and Crystal Chemistry (1971) 27, (*) p2133-p2139	4.5941 4.5941 2.9589 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.26	
+9162	Ge O2	Rutile-TiO2	Acta Crystallographica, Section B: Structural Crystallography and Crystal Chemistry (1971) 27, (*) p2133-p2139	4.3975 4.3975 2.8625 90.000 90.000 90.000	2	293.00	0.101325	Ge1 O2		
+9163	Sn O2	Rutile-TiO2	Acta Crystallographica, Section B: Structural Crystallography and Crystal Chemistry (1971) 27, (*) p2133-p2139	4.7380 4.7380 3.1865 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+16635	Sn O2	Rutile-TiO2	Acta Crystallographica (1956) 9, (*) p515-p520	4.7370 4.7370 3.1850 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1	7	
+16636	Ti O2	Rutile-TiO2	Acta Crystallographica (1956) 9, (*) p515-p520	4.5940 4.5940 2.9590 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.264	
+23697	Ti O2	Rutile-TiO2	Journal of Chemical Physics (1971) 55, (*) p3206-p3211	4.5937 4.5937 2.9587 90.000 90.000 90.000	2	298.00	0.101325	O2 Ti1	4.249	
+33837	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1991) 194, (*) p305-p313	4.5924 4.5924 2.9575 90.000 90.000 90.000	2	298.00	0.101325	O2 Ti1	4.264	
+33838	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1991) 194, (*) p305-p313	4.6001 4.6001 2.9654 90.000 90.000 90.000	2	523.00	0.101325	O2 Ti1		
+33839	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1991) 194, (*) p305-p313	4.6083 4.6083 2.9737 90.000 90.000 90.000	2	733.00	0.101325	O2 Ti1		
+33840	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1991) 194, (*) p305-p313	4.6172 4.6172 2.9803 90.000 90.000 90.000	2	943.00	0.101325	O2 Ti1		
+33841	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1991) 194, (*) p305-p313	4.6252 4.6252 2.9878 90.000 90.000 90.000	2	1163.00	0.101325	O2 Ti1		
+33842	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1991) 194, (*) p305-p313	4.6344 4.6344 2.9919 90.000 90.000 90.000	2	1333.00	0.101325	O2 Ti1		
+33843	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1991) 194, (*) p305-p313	4.6392 4.6392 2.9967 90.000 90.000 90.000	2	1463.00	0.101325	O2 Ti1		
+33844	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1991) 194, (*) p305-p313	4.6452 4.6452 3.0017 90.000 90.000 90.000	2	1623.00	0.101325	O2 Ti1		
+33845	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1991) 194, (*) p305-p313	4.6499 4.6499 3.0057 90.000 90.000 90.000	2	1753.00	0.101325	O2 Ti1		
+33846	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1991) 194, (*) p305-p313	4.6570 4.6570 3.0093 90.000 90.000 90.000	2	1883.00	0.101325	O2 Ti1		
+34372	Ti O2	Rutile-TiO2	Naturwissenschaften (1955) 42, (*) p295-p296	4.5930 4.5930 2.9590 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.264	
+36412	Ti O2	Rutile-TiO2	Canadian Mineralogist (1979) 17, (*) p77-p85	4.5930 4.5930 2.9590 90.000 90.000 90.000	2	298.00	0.101325	O2 Ti1	4.264	
+36413	Ti O2	Rutile-TiO2	Canadian Mineralogist (1979) 17, (*) p77-p85	4.6030 4.6030 2.9660 90.000 90.000 90.000	2	573.00	0.101325	O2 Ti1		
+36414	Ti O2	Rutile-TiO2	Canadian Mineralogist (1979) 17, (*) p77-p85	4.6160 4.6160 2.9770 90.000 90.000 90.000	2	873.00	0.101325	O2 Ti1		
+36415	Ti O2	Rutile-TiO2	Canadian Mineralogist (1979) 17, (*) p77-p85	4.6230 4.6230 2.9860 90.000 90.000 90.000	2	1173.00	0.101325	O2 Ti1		
+39166	Ti O2	Rutile-TiO2	Yogyo Kyokaishi (1984) 92, (*) p219-p223	4.5934 4.5934 2.9575 90.000 90.000 90.000	2	300.00	0.101325	O2 Ti1	4.264	
+39167	Ti O2	Rutile-TiO2	Yogyo Kyokaishi (1984) 92, (*) p219-p223	4.6017 4.6017 2.9647 90.000 90.000 90.000	2	520.00	0.101325	O2 Ti1		
+39168	Ti O2	Rutile-TiO2	Yogyo Kyokaishi (1984) 92, (*) p219-p223	4.6043 4.6043 2.9677 90.000 90.000 90.000	2	630.00	0.101325	O2 Ti1		
+39169	Ti O2	Rutile-TiO2	Yogyo Kyokaishi (1984) 92, (*) p219-p223	4.6107 4.6107 2.9732 90.000 90.000 90.000	2	790.00	0.101325	O2 Ti1		
+39170	Ti O2	Rutile-TiO2	Yogyo Kyokaishi (1984) 92, (*) p219-p223	4.6178 4.6178 2.9788 90.000 90.000 90.000	2	940.00	0.101325	O2 Ti1		
+39171	Ti O2	Rutile-TiO2	Yogyo Kyokaishi (1984) 92, (*) p219-p223	4.6255 4.6255 2.9859 90.000 90.000 90.000	2	1145.00	0.101325	O2 Ti1		
+39172	Ti O2	Rutile-TiO2	Yogyo Kyokaishi (1984) 92, (*) p219-p223	4.6325 4.6325 2.9912 90.000 90.000 90.000	2	1280.00	0.101325	O2 Ti1		
+39173	Sn O2	Rutile-TiO2	Yogyo Kyokaishi (1984) 92, (*) p219-p223	4.7358 4.7358 3.1851 90.000 90.000 90.000	2	295.00	0.101325	O2 Sn1	7.00(1)	
+39174	Sn O2	Rutile-TiO2	Yogyo Kyokaishi (1984) 92, (*) p219-p223	4.7391 4.7391 3.1869 90.000 90.000 90.000	2	470.00	0.101325	O2 Sn1		
+39175	Sn O2	Rutile-TiO2	Yogyo Kyokaishi (1984) 92, (*) p219-p223	4.7421 4.7421 3.1901 90.000 90.000 90.000	2	615.00	0.101325	O2 Sn1		
+39176	Sn O2	Rutile-TiO2	Yogyo Kyokaishi (1984) 92, (*) p219-p223	4.7456 4.7456 3.1930 90.000 90.000 90.000	2	670.00	0.101325	O2 Sn1		
+39177	Sn O2	Rutile-TiO2	Yogyo Kyokaishi (1984) 92, (*) p219-p223	4.7509 4.7509 3.1965 90.000 90.000 90.000	2	930.00	0.101325	O2 Sn1		
+39178	Sn O2	Rutile-TiO2	Yogyo Kyokaishi (1984) 92, (*) p219-p223	4.7552 4.7552 3.1992 90.000 90.000 90.000	2	1100.00	0.101325	O2 Sn1		
+62677	Ti O2	Rutile-TiO2	Acta Crystallographica, Section B: Structural Science (1987) 43, (*) p251-p257	4.5925 4.5925 2.9578 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.264	
+62678	Ti O2	Rutile-TiO2	Acta Crystallographica, Section B: Structural Science (1987) 43, (*) p251-p257	4.5933 4.5933 2.9580 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.264	
+62679	Ti O2	Rutile-TiO2	Acta Crystallographica, Section B: Structural Science (1987) 43, (*) p251-p257	4.5820 4.5820 2.9530 90.000 90.000 90.000	2	100.00	0.101325	O2 Ti1	4.264	
+64987	Ti O2	Rutile-TiO2	Acta Crystallographica, Section B: Structural Crystallography and Crystal Chemistry (1975) 31, (*) p1981-p1982	4.5845 4.5845 2.9533 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.264	
+75198	Nb O2	Rutile-TiO2	Journal of Solid State Chemistry (1994) 113, (*) p9-p14	4.8463 4.8463 3.0315 90.000 90.000 90.000	2	1273.00	0.101325	Nb1 O2		
+80843	Ti0.992 O2	Rutile-TiO2	American Mineralogist (1995) 80, (*) p448-p453	4.5922 4.5922 2.9574 90.000 90.000 90.000	2	300.00	0.101325	O2 Ti0.992		
+82656	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (1996) 127, (*) p240-p247	4.5940 4.5940 2.9589 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+84574	Ge O2	Rutile-TiO2	Acta Crystallographica, Section B: Structural Science (1997) 53, (*) p373-p380	4.4066 4.4066 2.8619 90.000 90.000 90.000	2	293.00	0.101325	Ge1 O2		
+84576	Sn O2	Rutile-TiO2	Acta Crystallographica, Section B: Structural Science (1997) 53, (*) p373-p380	4.7374 4.7374 3.1864 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+85492	Ti O2	Rutile-TiO2	Physica B+C: Physics of Condensed Matter + Atomic, Molecular and Plasma Physics, Optics (Amsterdam) (1986) 139, (*) p333-p336	4.5660 4.5660 2.9480 90.000 90.000 90.000	2	293.00	3100	O2 Ti1		
+85493	Ti O2	Rutile-TiO2	Physica B+C: Physics of Condensed Matter + Atomic, Molecular and Plasma Physics, Optics (Amsterdam) (1986) 139, (*) p333-p336	4.5480 4.5480 2.9460 90.000 90.000 90.000	2	293.00	5000	O2 Ti1		
+85494	Ti O2	Rutile-TiO2	Physica B+C: Physics of Condensed Matter + Atomic, Molecular and Plasma Physics, Optics (Amsterdam) (1986) 139, (*) p333-p336	4.5300 4.5300 2.9210 90.000 90.000 90.000	2	293.00	7600	O2 Ti1		
+85495	Ti O2	Rutile-TiO2	Physica B+C: Physics of Condensed Matter + Atomic, Molecular and Plasma Physics, Optics (Amsterdam) (1986) 139, (*) p333-p336	4.5170 4.5170 2.9400 90.000 90.000 90.000	2	293.00	8600	O2 Ti1		
+90609	Sn0.912 O2	Rutile-TiO2	International Journal of Inorganic Materials (2000) 45, (1) p155-p157	4.7384 4.7384 3.1865 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn0.912		
+90610	Sn0.904 O2	Rutile-TiO2	International Journal of Inorganic Materials (2000) 45, (1) p155-p157	4.7385 4.7385 3.1865 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn0.904		
+90611	Sn O2	Rutile-TiO2	International Journal of Inorganic Materials (2000) 45, (1) p155-p157	4.7350 4.7350 3.1837 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+91517	Sn O2	Rutile-TiO2	Korean Journal of Ceramics (2000) 6, (4) p354-p358	4.7365 4.7365 3.2010 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+92551	Ge O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (2000) 215, (*) p424-p428	4.4019 4.4019 2.8651 90.000 90.000 90.000	2	293.00	0.101325	Ge1 O2		
+92552	Sn O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (2000) 215, (*) p424-p428	4.7397 4.7397 3.1877 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+93097	Ti O2	Rutile-TiO2	Journal of Applied Crystallography (2001) 34, (*) p757-p762	4.5930 4.5930 2.9610 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+97277	Ti O2	Rutile-TiO2	American Mineralogist (2003) 88, (*) p986-p995	4.6257 4.6257 2.9806 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+109469	Ti O2	Rutile-TiO2	Powder Diffraction (2003) 18, (*) p281-p284	4.6010 4.6010 2.9634 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.23	
+154960	Sn O2	Rutile-TiO2	Journal of Physics and Chemistry of Solids (2002) 63, (*) p765-p772	4.7331 4.7331 3.1815 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+159915	Ti O2	Rutile-TiO2	Wuli Xuebao (2007) 56, (6) p3379-p3387	4.5918 4.5918 2.9588 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+160667	Sn O2	Rutile-TiO2	Chemical sensors (2008) 24, (*) p19-p21	4.7348 4.7348 3.1837 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+167953	Ti O2	Rutile-TiO2	Journal of the European Ceramic Society (2010) 30, (*) p2481-p2490	4.5911 4.5911 2.9624 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+167954	Ti O2	Rutile-TiO2	Journal of the European Ceramic Society (2010) 30, (*) p2481-p2490	4.5940 4.5940 2.9593 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+167955	Ti O2	Rutile-TiO2	Journal of the European Ceramic Society (2010) 30, (*) p2481-p2490	4.5941 4.5941 2.9593 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+167956	Ti O2	Rutile-TiO2	Journal of the European Ceramic Society (2010) 30, (*) p2481-p2490	4.5941 4.5941 2.9595 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+167957	Ti O2	Rutile-TiO2	Journal of the European Ceramic Society (2010) 30, (*) p2481-p2490	4.5935 4.5935 2.9595 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+167958	Ti O2	Rutile-TiO2	Journal of the European Ceramic Society (2010) 30, (*) p2481-p2490	4.5937 4.5937 2.9593 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+167959	Ti O2	Rutile-TiO2	Journal of the European Ceramic Society (2010) 30, (*) p2481-p2490	4.5938 4.5938 2.9594 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+167960	Ti O2	Rutile-TiO2	Journal of the European Ceramic Society (2010) 30, (*) p2481-p2490	4.5942 4.5942 2.9594 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+167961	Ti O2	Rutile-TiO2	Journal of the European Ceramic Society (2010) 30, (*) p2481-p2490	4.5935 4.5935 2.9595 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+167962	Ti O2	Rutile-TiO2	Journal of the European Ceramic Society (2010) 30, (*) p2481-p2490	4.5936 4.5936 2.9591 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+167963	Ti O2	Rutile-TiO2	Journal of the European Ceramic Society (2010) 30, (*) p2481-p2490	4.5928 4.5928 2.9605 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+167964	Ti O2	Rutile-TiO2	Journal of the European Ceramic Society (2010) 30, (*) p2481-p2490	4.5944 4.5944 2.9610 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+167965	Ti O2	Rutile-TiO2	Journal of the European Ceramic Society (2010) 30, (*) p2481-p2490	4.5958 4.5958 2.9616 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+168138	Ti O2	Rutile-TiO2	Solid State Ionics (2010) 181, (*) p994-p1001	4.5957 4.5957 2.9589 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+168140	Ti O2	Rutile-TiO2	Solid State Ionics (2010) 181, (*) p994-p1001	4.5944 4.5944 2.9589 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+202240	Ti O2	Rutile-TiO2	Journal of the American Chemical Society (1987) 109, (*) p3639-p3646	4.5931 4.5931 2.9589 90.000 90.000 90.000	2	295.00	0.101325	O2 Ti1	4.264	
+202241	Ti O2	Rutile-TiO2	Journal of the American Chemical Society (1987) 109, (*) p3639-p3646	4.5867 4.5867 2.9541 90.000 90.000 90.000	2	15.00	0.101325	O2 Ti1		
+257864	Ti O2	Rutile-TiO2	Crystal Growth & Design (2017) 17, (4) p1460-p1464	4.6012 4.6012 2.9637 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+257865	Ti O2	Rutile-TiO2	Crystal Growth & Design (2017) 17, (4) p1460-p1464	4.6189 4.6189 2.9357 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+262767	Sn O2	Rutile-TiO2	Journal of the American Chemical Society (2012) 134, (15) p6785-p6792	4.6184 4.6184 3.1393 90.000 90.000 90.000	2	473.00	0.101325	O2 Sn1		
+262768	Sn O2	Rutile-TiO2	Journal of the American Chemical Society (2012) 134, (15) p6785-p6792	4.7382 4.7382 3.1901 90.000 90.000 90.000	2	523.00	0.101325	O2 Sn1		
+262769	Sn O2	Rutile-TiO2	Journal of the American Chemical Society (2012) 134, (15) p6785-p6792	4.6692 4.6692 3.1431 90.000 90.000 90.000	2	623.00	0.101325	O2 Sn1		
+262770	Sn O2	Rutile-TiO2	Journal of the American Chemical Society (2012) 134, (15) p6785-p6792	4.7424 4.7424 3.1902 90.000 90.000 90.000	2	523.00	0.101325	O2 Sn1		
+16637	Ge O2	Rutile-TiO2	Acta Crystallographica (1956) 9, (*) p515-p520	4.3950 4.3950 2.8600 90.000 90.000 90.000	2	293.00	0.101325	Ge1 O2	6.239	
+24277	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1942) 104, (*) p358-p374	4.5890 4.5890 2.9540 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.24	
+24294	Ti O2	Rutile-TiO2	Acta Chemica Scandinavica  (1957) 11, (*) p1641-p1652	4.5930 4.5930 2.9590 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.264	
+24780	Ti O2	Rutile-TiO2	Acta Crystallographica, Section B: Structural Crystallography and Crystal Chemistry (1982) 38, (*) p701-p702	4.5922 4.5922 2.9590 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.24	
+31321	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1982) 160, (*) p187-p203	4.5937 4.5937 2.9587 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.264	
+31322	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1982) 161, (*) p1-p5	4.5937 4.5937 2.9587 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.264	
+31323	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1982) 161, (*) p1-p5	4.5937 4.5937 2.9587 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.264	
+31324	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1982) 161, (*) p1-p5	4.5937 4.5937 2.9587 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.264	
+31325	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1982) 161, (*) p1-p5	4.5937 4.5937 2.9587 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.264	
+31326	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1982) 160, (*) p187-p203	4.5937 4.5937 2.9587 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.264	
+31327	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1982) 160, (*) p187-p203	4.5937 4.5937 2.9587 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.264	
+31328	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1982) 160, (*) p187-p203	4.5937 4.5937 2.9587 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.264	
+31329	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1982) 160, (*) p187-p203	4.5937 4.5937 2.9587 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.264	
+31330	Ti O2	Rutile-TiO2	Zeitschrift fuer Kristallographie (1982) 160, (*) p187-p203	4.5937 4.5937 2.9587 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.264	
+44881	Ti O2	Rutile-TiO2	Journal of the American Chemical Society (1955) 77, (*) p4708-p4709	4.5929 4.5929 2.9591 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.23	
+51050	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (1998) 139, (*) p225-p232	4.6110 4.6110 2.9820 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+51930	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (2002) 169, (*) p176-p181	4.6021 4.6021 2.9563 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+51931	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (2002) 169, (*) p176-p181	4.6006 4.6006 2.9567 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+51932	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (2002) 169, (*) p176-p181	4.5977 4.5977 2.9564 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+51933	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (2002) 169, (*) p176-p181	4.5945 4.5945 2.9565 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+51934	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (2002) 169, (*) p176-p181	4.5935 4.5935 2.9566 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+51935	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (2002) 169, (*) p176-p181	4.5931 4.5931 2.9568 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+51936	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (2002) 169, (*) p176-p181	4.5927 4.5927 2.9569 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+51937	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (2002) 169, (*) p176-p181	4.5927 4.5927 2.9575 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+51938	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (2002) 169, (*) p176-p181	4.5925 4.5925 2.9574 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+51939	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (2002) 169, (*) p176-p181	4.5921 4.5921 2.9574 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+51940	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (2002) 169, (*) p176-p181	4.5926 4.5926 2.9577 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+51941	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (2002) 169, (*) p176-p181	4.5925 4.5925 2.9579 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+53997	Ti O2	Rutile-TiO2	Philosophical Magazine  (1916) 32, (*) p505-p518	4.5300 4.5300 2.9300 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.23	
+56001	Sn O2	Rutile-TiO2	Philosophical Magazine  (1916) 32, (*) p65-p96	4.6800 4.6800 3.1500 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1	7.02	
+56018	Nb O2	Rutile-TiO2	Papers - Norwegian Academy of Sciences and Letters, [Section] 1: Mathematics-Natural Sciences Section (1926) 1926, (9) p1-p17	4.7800 4.7800 2.9700 90.000 90.000 90.000	2	293.00	0.101325	Nb1 O2		
+56671	Sn O2	Rutile-TiO2	Physical Review B: Condensed Matter and Materials Physics (1997) 55, (*) p11144-p11154	4.7367 4.7367 3.1855 90.000 90.000 90.000	2	295.00	0.101325	O2 Sn1		
+56672	Sn O2	Rutile-TiO2	Physical Review B: Condensed Matter and Materials Physics (1997) 55, (*) p11144-p11154	4.7031 4.7031 3.1733 90.000 90.000 90.000	2	293.00	3800	O2 Sn1		
+56673	Sn O2	Rutile-TiO2	Physical Review B: Condensed Matter and Materials Physics (1997) 55, (*) p11144-p11154	4.6855 4.6855 3.1679 90.000 90.000 90.000	2	293.00	6400	O2 Sn1		
+56674	Sn O2	Rutile-TiO2	Physical Review B: Condensed Matter and Materials Physics (1997) 55, (*) p11144-p11154	4.6537 4.6537 3.1577 90.000 90.000 90.000	2	293.00	10800	O2 Sn1		
+63710	Ti O2	Rutile-TiO2	Acta Crystallographica, Section B: Structural Science (1991) 47, (*) p462-p468	4.5937 4.5937 2.9587 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.264	
+76172	Ti O2	Rutile-TiO2	Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences (1953) 236, (*) p944-p946	4.5840 4.5840 2.9530 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+82081	Ti0.928 O2	Rutile-TiO2	Journal of Solid State Chemistry (1996) 122, (*) p309-p314	4.6010 4.6010 2.9560 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti0.928		
+82083	Ti0.912 O2	Rutile-TiO2	Journal of Solid State Chemistry (1996) 122, (*) p309-p314	4.5925 4.5925 2.9560 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti0.912		
+82085	Ti0.936 O2	Rutile-TiO2	Journal of Solid State Chemistry (1996) 122, (*) p309-p314	4.5900 4.5900 2.9570 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti0.936		
+82086	Ti0.924 O2	Rutile-TiO2	Journal of Solid State Chemistry (1996) 122, (*) p309-p314	4.5905 4.5905 2.9580 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti0.924		
+88623	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (1999) 143, (*) p210-p218	4.5937 4.5937 2.9588 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+88624	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (1999) 143, (*) p210-p218	4.5935 4.5935 2.9588 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+88625	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (1999) 143, (*) p210-p218	4.5933 4.5933 2.9586 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+88626	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (1999) 143, (*) p210-p218	4.5931 4.5931 2.9583 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+88627	Ti O2	Rutile-TiO2	Journal of Solid State Chemistry (1999) 143, (*) p210-p218	4.5932 4.5932 2.9584 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+158589	Ge O2	Rutile-TiO2	Physics and Chemistry of Minerals (2000) 27, (*) p575-p582	4.3966 4.3966 2.8626 90.000 90.000 90.000	2	293.00	0.101325	Ge1 O2		
+158590	Ge O2	Rutile-TiO2	Physics and Chemistry of Minerals (2000) 27, (*) p575-p582	4.3751 4.3751 2.8511 90.000 90.000 90.000	2	293.00	4200	Ge1 O2		
+158591	Ge O2	Rutile-TiO2	Physics and Chemistry of Minerals (2000) 27, (*) p575-p582	4.3553 4.3553 2.8463 90.000 90.000 90.000	2	293.00	6200	Ge1 O2		
+158592	Ge O2	Rutile-TiO2	Physics and Chemistry of Minerals (2000) 27, (*) p575-p582	4.3417 4.3417 2.8407 90.000 90.000 90.000	2	293.00	8900	Ge1 O2		
+158593	Ge O2	Rutile-TiO2	Physics and Chemistry of Minerals (2000) 27, (*) p575-p582	4.3340 4.3340 2.8376 90.000 90.000 90.000	2	293.00	10400	Ge1 O2		
+158594	Ge O2	Rutile-TiO2	Physics and Chemistry of Minerals (2000) 27, (*) p575-p582	4.3349 4.3349 2.8424 90.000 90.000 90.000	2	293.00	10500	Ge1 O2		
+158595	Ge O2	Rutile-TiO2	Physics and Chemistry of Minerals (2000) 27, (*) p575-p582	4.2980 4.2980 2.8295 90.000 90.000 90.000	2	293.00	16100	Ge1 O2		
+158596	Ge O2	Rutile-TiO2	Physics and Chemistry of Minerals (2000) 27, (*) p575-p582	4.2835 4.2835 2.8193 90.000 90.000 90.000	2	293.00	20300	Ge1 O2		
+158597	Ge O2	Rutile-TiO2	Physics and Chemistry of Minerals (2000) 27, (*) p575-p582	4.2630 4.2630 2.8148 90.000 90.000 90.000	2	293.00	25000	Ge1 O2		
+165920	Ti O2	Rutile-TiO2	Materials Research Bulletin (2010) 45, (*) p6-p8	4.6000 4.6000 2.9600 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+165921	Ti O2	Rutile-TiO2	Materials Research Bulletin (2010) 45, (*) p6-p8	4.6370 4.6370 2.9230 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+165922	Ti O2	Rutile-TiO2	Materials Research Bulletin (2010) 45, (*) p6-p8	4.6200 4.6200 2.9630 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+165923	Ti O2	Rutile-TiO2	Materials Research Bulletin (2010) 45, (*) p6-p8	4.6070 4.6070 2.9710 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+165924	Ti O2	Rutile-TiO2	Materials Research Bulletin (2010) 45, (*) p6-p8	4.6010 4.6010 2.9680 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+165925	Ti O2	Rutile-TiO2	Materials Research Bulletin (2010) 45, (*) p6-p8	4.5853 4.5853 2.9660 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+169032	Sn O2	Rutile-TiO2	Journal of Chemical Physics (2010) 132, (*) p194702-1-p194702-8	4.7178 4.7178 3.1257 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+169622	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.5922 4.5922 2.9576 90.000 90.000 90.000	2	296.00	0.101325	O2 Ti1		
+169623	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.5961 4.5961 2.9616 90.000 90.000 90.000	2	366.00	0.101325	O2 Ti1		
+169624	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.6007 4.6007 2.9648 90.000 90.000 90.000	2	459.00	0.101325	O2 Ti1		
+169625	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.6034 4.6034 2.9678 90.000 90.000 90.000	2	553.00	0.101325	O2 Ti1		
+169626	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.6068 4.6068 2.9704 90.000 90.000 90.000	2	646.00	0.101325	O2 Ti1		
+169627	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.6105 4.6105 2.9731 90.000 90.000 90.000	2	739.00	0.101325	O2 Ti1		
+169628	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.6119 4.6119 2.9743 90.000 90.000 90.000	2	786.00	0.101325	O2 Ti1		
+169629	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.6141 4.6141 2.9758 90.000 90.000 90.000	2	832.00	0.101325	O2 Ti1		
+169630	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.6154 4.6154 2.9777 90.000 90.000 90.000	2	879.00	0.101325	O2 Ti1		
+169631	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.6170 4.6170 2.9790 90.000 90.000 90.000	2	926.00	0.101325	O2 Ti1		
+169632	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.6189 4.6189 2.9810 90.000 90.000 90.000	2	972.00	0.101325	O2 Ti1		
+169633	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.6206 4.6206 2.9824 90.000 90.000 90.000	2	1019.00	0.101325	O2 Ti1		
+169634	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.6227 4.6227 2.9839 90.000 90.000 90.000	2	1065.00	0.101325	O2 Ti1		
+169635	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.6247 4.6247 2.9852 90.000 90.000 90.000	2	1112.00	0.101325	O2 Ti1		
+169636	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.6262 4.6262 2.9864 90.000 90.000 90.000	2	1159.00	0.101325	O2 Ti1		
+169637	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.6280 4.6280 2.9882 90.000 90.000 90.000	2	1205.00	0.101325	O2 Ti1		
+169638	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.6309 4.6309 2.9907 90.000 90.000 90.000	2	1299.00	0.101325	O2 Ti1		
+169639	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.6355 4.6355 2.9938 90.000 90.000 90.000	2	1392.00	0.101325	O2 Ti1		
+169640	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.6382 4.6382 2.9973 90.000 90.000 90.000	2	1485.00	0.101325	O2 Ti1		
+169641	Ti O2	Rutile-TiO2	Open Mineralogy Journal (2009) 3, (*) p1-p11	4.6403 4.6403 3.0003 90.000 90.000 90.000	2	1578.00	0.101325	O2 Ti1		
+183984	Sn O2	Rutile-TiO2	Physica B: Condensed Matter (Amsterdam, Netherlands) (2012) 407, (*) p624-p628	4.7394 4.7394 3.1877 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+184324	Sn O2	Rutile-TiO2	Journal of Physics and Chemistry of Solids (2012) 73, (7) p943-p947	4.7880 4.7880 3.1900 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+184325	Sn O2	Rutile-TiO2	Journal of Physics and Chemistry of Solids (2012) 73, (7) p943-p947	4.7900 4.7900 3.1990 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+184326	Sn O2	Rutile-TiO2	Journal of Physics and Chemistry of Solids (2012) 73, (7) p943-p947	4.8050 4.8050 3.2050 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+184420	Sn O2	Rutile-TiO2	Journal of Alloys and Compounds (2012) 523, (*) p83-p87	4.8000 4.8000 3.2050 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+193266	Ti O2	Rutile-TiO2	Diyala Journal for Pure Sciences (2013) 9, (2) p108-p119	4.5925 4.5925 2.9589 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+193268	Ti O2	Rutile-TiO2	Diyala Journal for Pure Sciences (2013) 9, (2) p108-p119	4.5925 4.5925 2.9589 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+193270	Ti O2	Rutile-TiO2	Diyala Journal for Pure Sciences (2013) 9, (2) p108-p119	4.6125 4.6125 2.9738 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+197985	Ti O2	Rutile-TiO2	Transactions and Journal of the British Ceramic Society (1984) 83, (0307-7357) p32-p37	4.5929 4.5929 2.9591 90.000 90.000 90.000	2	298.00	0.101325	O2 Ti1		
+197986	Sn O2	Rutile-TiO2	Transactions and Journal of the British Ceramic Society (1984) 83, (0307-7357) p32-p37	4.7380 4.7380 3.1180 90.000 90.000 90.000	2	299.00	0.101325	O2 Sn1		
+198208	Sn O2	Rutile-TiO2	Transactions of the Faraday Society (1932) 28, (*) p522-p529	4.7300 4.7300 3.1800 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+200391	Ti O2	Rutile-TiO2	Kristallografiya (1977) 22, (*) p1253-p1258	4.5900 4.5900 2.9600 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1	4.264	
+230265	Ge O2	Rutile-TiO2	Physics and Chemistry of Minerals (2018) 45, (4) p367-p379	4.2497 4.2497 2.8192 90.000 90.000 90.000	2	2120.00	39100	Ge1 O2		
+230789	Sn O2	Rutile-TiO2	Journal of Alloys and Compounds (2017) 691, (*) p514-p523	4.7350 4.7350 3.1847 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+241553	Sn O2	Rutile-TiO2	Journal of Electroanalytical Chemistry (2016) 778, (*) p7-p11	4.7480 4.7480 3.2920 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+258168	Sn O2	Rutile-TiO2	Journal of Alloys and Compounds (2017) 692, (*) p515-p521	4.7384 4.7384 3.1872 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+259459	Sn O2	Rutile-TiO2	Journal of Materials Science Letters (1990) 9, (*) p1106-p1108	4.7380 4.7380 3.1880 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+259460	Sn O2	Rutile-TiO2	Journal of Materials Science Letters (1990) 9, (*) p1106-p1108	4.7710 4.7710 3.2110 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+259461	Sn O2	Rutile-TiO2	Journal of Materials Science Letters (1990) 9, (*) p1106-p1108	4.7840 4.7840 3.2160 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+259462	Sn O2	Rutile-TiO2	Journal of Materials Science Letters (1990) 9, (*) p1106-p1108	4.7370 4.7370 3.1650 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+259463	Sn O2	Rutile-TiO2	Journal of Materials Science Letters (1990) 9, (*) p1106-p1108	4.7360 4.7360 3.1910 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+259464	Sn O2	Rutile-TiO2	Journal of Materials Science Letters (1990) 9, (*) p1106-p1108	4.7350 4.7350 3.1900 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+259465	Sn O2	Rutile-TiO2	Journal of Materials Science Letters (1990) 9, (*) p1106-p1108	4.7310 4.7310 3.1850 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+259813	Sn O2	Rutile-TiO2	Sensors and Actuators, B Chemical (2017) 238, (*) p264-p273	4.7420 4.7420 3.1844 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+259814	Sn O2	Rutile-TiO2	Sensors and Actuators, B Chemical (2016) 237, (*) p133-p141	4.7437 4.7437 3.1901 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+262771	Sn O2	Rutile-TiO2	Journal of the American Chemical Society (2012) 134, (15) p6785-p6792	4.6667 4.6667 3.1443 90.000 90.000 90.000	2	523.00	0.101325	O2 Sn1		
+604436	Nb0.94 O2	Rutile-TiO2	Journal of Solid State Chemistry (1986) 63, (3) p386-p390	4.7840 4.7840 3.0290 90.000 90.000 90.000	2	293.00	0.101325	Nb0.94 O2		
+637460	Ge O2	Rutile-TiO2	Journal of Applied Crystallography (1991) 24, (2) p111-p118	4.3975 4.3975 2.8625 90.000 90.000 90.000	2	293.00	1	Ge1 O2		
+637464	Ge O2	Rutile-TiO2	Transactions and Journal of the British Ceramic Society (1984) 83, (0307-7357) p32-p37	4.3980 4.3980 2.8620 90.000 90.000 90.000	2	298.00	0.101325	Ge1 O2		
+637465	Ge O2	Rutile-TiO2	Zeitschrift fuer Physikalische Chemie, Abteilung B: Chemie der Elementarprozesse, Aufbau der Materie (1932) 17, (*) p172-p176	4.3900 4.3900 2.8590 90.000 90.000 90.000	2	293.00	0.101325	Ge1 O2		
+645141	Nb O2	Rutile-TiO2	Papers - Norwegian Academy of Sciences and Letters, [Section] 1: Mathematics-Natural Sciences Section (1926) 1926, (1) p5-p21	4.7700 4.7700 2.9600 90.000 90.000 90.000	2	293.00	0.101325	Nb1 O2		
+645142	Nb O2	Rutile-TiO2	Transactions and Journal of the British Ceramic Society (1984) 83, (0307-7357) p32-p37	4.8460 4.8460 2.9920 90.000 90.000 90.000	2	298.00	0.101325	Nb1 O2		
+647465	Sn O2	Rutile-TiO2	High Temperatures - High Pressures (1971) 3, (*) p325-p331	4.7380 4.7380 3.1880 90.000 90.000 90.000	2	288.00	0.101325	O2 Sn1		
+647469	Sn O2	Rutile-TiO2	Powder Diffraction (1989) 4, (3) p156-p159	4.7382 4.7382 3.1871 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+647470	Sn O2	Rutile-TiO2	Papers - Norwegian Academy of Sciences and Letters, [Section] 1: Mathematics-Natural Sciences Section (1926) 1926, (1) p5-p21	4.7500 4.7500 3.1900 90.000 90.000 90.000	2	293.00	0.101325	O2 Sn1		
+647553	Ti O2	Rutile-TiO2	Papers - Norwegian Academy of Sciences and Letters, [Section] 1: Mathematics-Natural Sciences Section (1926) 1926, (1) p5-p21	4.5800 4.5800 2.9500 90.000 90.000 90.000	2	293.00	0.101325	O2 Ti1		
+7146	Hf O2	Zirconia-ZrO2(HT)	Acta Materialia (2018) 161, (*) p127-p137	3.6472 3.6472 5.3293 90.000 90.000 90.000	2	293.00	0.101325	Hf1 O2		
+173966	Hf O2	Zirconia-ZrO2(HT)	Physical Review B: Condensed Matter and Materials Physics (2005) 72, (*) p144107-1-p144107-9	3.5775 3.5775 5.1996 90.000 90.000 90.000	2	293.00	0.101325	Hf1 O2		
+35181	Nb O2		Zeitschrift fuer Naturforschung, Teil B: Anorganische Chemie, Organische Chemie (1982) 37, (*) p1361-p1368	9.6930 9.6930 5.9850 90.000 90.000 90.000	16	293.00	0.101325	Nb1 O2		
