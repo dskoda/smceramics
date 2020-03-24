@@ -1,0 +1,21 @@
+CollectionCode	StructuredFormula	StructureType	Reference	StandardisedCellParameter	FormulaUnitsPerCell	Temperature	Pressure	SumFormula	MeasuredDensity	
+31311	Zr0.33 Ti0.67 O2	PbO2(alpha)-Fe2N.94	Zeitschrift fuer Kristallographie (1983) 164, (*) p59-p66	4.7060 5.5530 5.0240 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti0.67 Zr0.33	4.7	
+69619	(Zr Ti) O4	PbO2(alpha)-Fe2N.94	Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE) (1990) 582, (*) p93-p102	4.7855 5.4755 5.0277 90.000 90.000 90.000	2	293.00	0.101325	O4 Ti1 Zr1	5.06	
+153939	(Zr0.575 Ti0.425) O2	PbO2(alpha)-Fe2N.94	Physics and Chemistry of Minerals (2005) 32, (*) p504-p514	4.8495 5.4635 5.0462 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti0.425 Zr0.575		
+153940	(Zr0.55 Ti0.45) O2	PbO2(alpha)-Fe2N.94	Physics and Chemistry of Minerals (2005) 32, (*) p504-p514	4.8349 5.4801 5.0439 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti0.45 Zr0.55		
+153941	(Zr0.5 Ti0.5) O2	PbO2(alpha)-Fe2N.94	Physics and Chemistry of Minerals (2005) 32, (*) p504-p514	4.8069 5.4785 5.0339 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti0.5 Zr0.5		
+153942	(Zr0.452 Ti0.548) O2	PbO2(alpha)-Fe2N.94	Physics and Chemistry of Minerals (2005) 32, (*) p504-p514	4.7762 5.5010 5.0253 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti0.548 Zr0.452		
+153943	(Zr0.4 Ti0.6) O2	PbO2(alpha)-Fe2N.94	Physics and Chemistry of Minerals (2005) 32, (*) p504-p514	4.7447 5.4925 5.0119 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti0.6 Zr0.4		
+153944	(Zr0.35 Ti0.65) O2	PbO2(alpha)-Fe2N.94	Physics and Chemistry of Minerals (2005) 32, (*) p504-p514	4.7200 5.5078 5.0018 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti0.65 Zr0.35		
+153945	(Zr0.333 Ti0.666) O2	PbO2(alpha)-Fe2N.94	Physics and Chemistry of Minerals (2005) 32, (*) p504-p514	4.7112 5.4944 4.9962 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti0.666 Zr0.333		
+160153	(Zr0.9 Ti0.1) (Ti0.56 Zr0.44) O4	YNbO4(mS24)	Journal of Solid State Chemistry (2007) 180, (*) p2885-p2895	6.8113 10.4200 4.9766 90.000 132.313 90.000	4	293.00	0.101325	O4 Ti0.66 Zr1.34		
+9389	Ti2 Zr O		Comptes Rendus des Seances de l'Academie des Sciences, Serie C: Sciences Chimiques (1972) 274, (*) p444-p447	4.8380 8.1470 6.1070 90.000 90.000 90.000	4	293.00	0.101325	O1 Ti2 Zr1		
+20119	Ti2 Zr O		Doklady Akademii Nauk SSSR (1968) 182, (*) p576-p579	4.7880 4.7880 3.0430 90.000 90.000 120.000	1	293.00	0.101325	O1 Ti2 Zr1		
+27311	Zr (Ti O4)	PbO2(alpha)-Fe2N.94	Journal of the American Ceramic Society (1967) 50, (*) p216-p216	4.8060 5.4470 5.0320 90.000 90.000 90.000	2	293.00	0.101325	O4 Ti1 Zr1	5.06	
+51049	(Zr0.4167 Ti0.5833) O2	PbO2(alpha)-Fe2N.94	Journal of Solid State Chemistry (1998) 139, (*) p225-p232	4.8000 5.5000 5.0000 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti0.5833 Zr0.4167		
+180024	(Zr Ti) O4	PbO2(alpha)-Fe2N.94	Journal of Physics and Chemistry of Solids (2011) 72, (*) p83-p89	4.7980 5.4420 5.0260 90.000 90.000 90.000	2	293.00	0.101325	O4 Ti1 Zr1		
+183597	Zr (Ti O4)	PbO2(alpha)-Fe2N.94	Journal of the European Ceramic Society (2012) 32, (*) p299-p306	4.8060 5.4773 5.0332 90.000 90.000 90.000	2	293.00	0.101325	O4 Ti1 Zr1		
+183598	Zr (Ti O4)	PbO2(alpha)-Fe2N.94	Journal of the European Ceramic Society (2012) 32, (*) p299-p306	4.8101 5.4389 5.0337 90.000 90.000 90.000	2	293.00	0.101325	O4 Ti1 Zr1		
+183599	Zr (Ti O4)	PbO2(alpha)-Fe2N.94	Journal of the European Ceramic Society (2012) 32, (*) p299-p306	4.8156 5.4174 5.0332 90.000 90.000 90.000	2	293.00	0.101325	O4 Ti1 Zr1		
+201960	(Zr0.5 Ti0.5) O2	PbO2(alpha)-Fe2N.94	Journal of Solid State Chemistry (1986) 64, (*) p30-p46	4.8042 5.4825 5.0313 90.000 90.000 90.000	4	293.00	0.101325	O2 Ti0.5 Zr0.5	5.06	
+201961	(Zr4.76 Ti7.24) O24	Columbite-Nb2FeO6	Journal of Solid State Chemistry (1986) 64, (*) p30-p46	14.3574 5.3247 5.0200 90.000 90.000 90.000	1	293.00	0.101325	O24 Ti7.24 Zr4.76		
