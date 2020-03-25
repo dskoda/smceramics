@@ -45,9 +45,20 @@ class LatticePredictor:
 
     def predict(self, X):
         return {
-            output: reg.predict(X)
+            output: self.predict_output(X[output], output)
             for output, reg in self._regressors.items()
         }
+
+    def predict_output(self, X, output):
+        return self._regressors[output].predict(X)
+
+    def predict_df(self, df):
+        #TODO: finish implementing this method
+        for out in self.outputs:
+            idx = df[self.features + [out]].dropna().index
+            X = df.loc[idx, self.features].values
+            y = df.loc[idx, out].values.reshape(-1)
+            self.fit_output(X, y, out)
 
     def fit(self, X, y):
         """X and y are hashables with the same keys of
