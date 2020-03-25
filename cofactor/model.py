@@ -61,9 +61,9 @@ class LatticePredictor:
 
     def fit_df(self, df):
         for out in self.outputs:
-            idx = df[self.features].dropna().index
-            X = df.loc[idx].values
-            y = df.loc[idx, out].values.reshape(-1, 1)
+            idx = df[self.features + [out]].dropna().index
+            X = df.loc[idx, self.features].values
+            y = df.loc[idx, out].values.reshape(-1)
             self.fit_output(X, y, out)
 
     def get_stats(self, X, y):
