@@ -81,16 +81,10 @@ class LatticePredictor:
             y = df.loc[idx, out].values.reshape(-1)
             self.fit_output(X, y, out)
 
-    def get_stats(self, X, y):
-        y_pred = self.predict(X)
-        rmse = {
-            out: np.sqrt(mean_squared_error(y, pred))
-            for out, pred in y_pred.items()
-        }
-        rsq = {
-            out: stats.pearsonr(y, pred)[0]
-            for out, pred in y_pred.items()
-        }
+    def get_stats(self, X, y, output):
+        y_pred = self.predict_output(X, output)
+        rmse = np.sqrt(mean_squared_error(y, y_pred))
+        rsq, _ = stats.pearsonr(y, y_pred)
         
         return rmse, rsq
 
