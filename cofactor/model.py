@@ -4,8 +4,9 @@ import numpy as np
 from scipy import stats
 
 from sklearn.linear_model import BayesianRidge
-from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
+
+from .calculator import Lattice
 
 
 FEATURES = ['T', 'en_p', 'ea', 'valence', 'rad_slater', 'rad_clementi']
@@ -49,20 +50,33 @@ class LatticePredictor:
 
     def predict(self, X):
         return {
-            output: self.predict_output(X[output], output)
+            output: self.predict_output(X, output)
             for output, reg in self._regressors.items()
         }
 
     def predict_output(self, X, output):
         return self._regressors[output].predict(X)
 
-    def predict_df(self, df):
-        #TODO: finish implementing this method
-        for out in self.outputs:
-            idx = df[self.features + [out]].dropna().index
-            X = df.loc[idx, self.features].values
-            y = df.loc[idx, out].values.reshape(-1)
-            self.fit_output(X, y, out)
+    def predict_lattice(self, X):
+        parameters = self.predict(X)
+
+        lattices = []
+        for i in range(len(X)):
+            tetr = Lattice(
+                parameters['tetr_a'][i],
+                parameters['tetr_a'][i],
+                parameters['tetr_c'][i],
+                90.0
+            )
+            mono = Lattice(
+                parameters['mono_a'][i],
+                parameters['mono_b'][i],
+                parameters['mono_c'][i],
+                parameters['mono_beta'][i],
+            )
+            lattices.append((tetr, mono))
+
+        return lattices
 
     def fit(self, X, y):
         """X and y are hashables with the same keys of
