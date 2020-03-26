@@ -23,16 +23,20 @@ class LatticePredictor:
         self.features = features
         self.outputs = outputs
 
+    @property
+    def _state(self):
+        return (self._regressors, self.features, self.outputs)
+
     def save(self, filename):
         with open(filename, 'wb') as f:
-            pickle.dump(self._regressors, f)
+            pickle.dump(self._state, f)
 
     @classmethod
     def from_file(cls, filename):
         with open(filename, 'rb') as f:
-            regressors = pickle.load(f)
+            state = pickle.load(f)
 
-        return cls(regressors)
+        return cls(*state)
 
     @classmethod
     def from_features(cls, features=FEATURES, outputs=OUTPUTS):
