@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import itertools
 
 
 class Features:
@@ -34,5 +35,19 @@ class Features:
             if element in self.atomic_feat.index
         ])
         return pd.DataFrame(df, columns=features)
+
+
+def gen_non_linear(df, degree, features):
+    """Generate non-linear features with the existing ones and
+        the polynomial degree"""
+
+    nonlinear = []
+    for f1, f2 in itertools.combinations_with_replacement(features, degree):
+        newfeature = f1 + '_' + f2
+        df[newfeature] = df[f1] * df[f2]
+
+        nonlinear.append(newfeature)
+
+    return df, nonlinear
         
 

@@ -10,6 +10,7 @@ from .calculator import Lattice
 
 
 FEATURES = ['T', 'en_p', 'ea', 'valence', 'rad_slater', 'rad_clementi']
+ALL_FEATURES = ['en_p', 'ea', 'valence', 'pettifor', 'rad_ionic', 'rad_slater', 'rad_clementi'] 
 OUTPUTS = ['tetr_a', 'tetr_c', 'mono_a', 'mono_b', 'mono_c', 'mono_beta']
 
 
