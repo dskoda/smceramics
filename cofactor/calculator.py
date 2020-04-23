@@ -11,14 +11,14 @@ class CofactorCalculator:
     def __init__(self, tetragonal, monoclinic):
         self.tetr = tetragonal
         self.mono = monoclinic
-        self._check_inputs()
+        #self._check_inputs()
 
     def _check_inputs(self):
         assert isinstance(self.tetr, Lattice)
         assert isinstance(self.mono, Lattice)
-        assert self.tetr.a == self.tetr.b
-        assert self.tetr.beta == 90
-        assert self.mono.beta != 90
+        np.testing.assert_almost_equal(self.tetr.a, self.tetr.b)
+        np.testing.assert_almost_equal(self.tetr.beta, 90)
+        assert not np.isclose(self.mono.beta, 90)
 
     def get_deformation_matrix_A(self):
         f11 = self.mono.b / self.tetr.a
@@ -81,8 +81,18 @@ class CofactorCalculator:
         w, _ = np.linalg.eig(U)
         return sorted(w.tolist())[1]
 
+    def get_volume_change_correspondence(self, F):
+        U = self.get_stretch_tensor(F)
+        return np.linalg.det(U)
+
     def get_cofactors(self):
         return {
-            key: self.get_cofactor_correspondence(F)
+            key + '_lambda': self.get_cofactor_correspondence(F)
+            for key, F in self.deformations.items()
+        }
+
+    def get_volume_change(self):
+        return {
+            key + '_dV': self.get_volume_change_correspondence(F)
             for key, F in self.deformations.items()
         }
