@@ -29,12 +29,13 @@ class Features:
         return df
 
     def get_atomic_features(self, composition, features):
+        available_features = set(self.atomic_feat.columns) & set(features)
         df = sum([
-            self.atomic_feat.loc[element, features].values * fraction
+            self.atomic_feat.loc[element, available_features].values * fraction
             for element, fraction in composition.items()
             if element in self.atomic_feat.index
         ])
-        return pd.DataFrame(df, columns=features)
+        return pd.DataFrame(df, columns=available_features)
 
 
 def gen_non_linear(df, degree, features):
