@@ -103,3 +103,10 @@ class LatticePredictor:
         
         return rmse, rsq
 
+    def get_equations(self):
+        return pd.DataFrame(
+            [r.coef_ for r in self._regressors.values()],
+            index=self._regressors.keys(),
+            columns=self.features
+        )
+
